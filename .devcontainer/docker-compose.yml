@@ -1,0 +1,22 @@
+version: "3"
+services:
+  backend:
+    build:
+      dockerfile: .devcontainer/Dockerfile
+      context: ..
+    command: /bin/bash -c 'sleep infinity'
+    depends_on:
+      - postgres-vtb
+    environment:
+      - INSIDE_DOCKER=true
+    working_dir: /workspace
+    volumes:
+      - ..:/workspace
+      # cache VS Code Server extensions
+      - vs-server-extensions:/root/.vscode-server/extensions
+      - vs-server-insider-extensions:/root/.vscode-server-insiders/extensions
+
+
+volumes:
+  vs-server-extensions:
+  vs-server-insider-extensions:

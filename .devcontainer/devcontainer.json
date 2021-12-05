@@ -1,0 +1,71 @@
+{
+	"name": "Python",
+	"dockerComposeFile": [
+        "../docker-compose.services.yml",
+    ],
+    "workspaceFolder": "/workspace",
+    "service": "backend",
+	// Set *default* container specific settings.json values on container create.
+	"settings": {
+        "terminal.integrated.env.linux": {
+            "path": "/bin/zsh"
+        },
+        "terminal.integrated.profiles.linux": {
+            "zsh": {
+                "path": "/bin/zsh"
+            },
+        },
+        "terminal.integrated.defaultProfile.linux": "zsh",
+        "python.linting.enabled": true,
+        "python.linting.mypyEnabled": true,
+        "python.linting.mypyArgs": [
+            "--follow-imports=silent",
+            "--ignore-missing-imports",
+            "--show-column-numbers",
+            "--config-file=pyproject.toml"
+        ],
+        "python.formatting.provider": "black",
+        "python.testing.pytestEnabled": true,
+        "python.testing.pytestArgs": [
+        ],
+        "python.testing.cwd": "v3/src",
+        "python.envFile": "${workspaceRoot}/.vscode/.env",
+        "python.languageServer": "Pylance",
+        "python.analysis.typeCheckingMode": "basic",
+        "python.analysis.diagnosticMode": "openFilesOnly",
+        "sqltools.connections": [
+            {
+                "previewLimit": 50,
+                "server": "postgres-vtb",
+                "port": 5432,
+                "name": "Container database",
+                "driver": "PostgreSQL",
+                "database": "services",
+                "username": "program",
+                "password": "test"
+            }
+        ],
+	},
+	// Add the IDs of extensions you want installed when the container is created.
+	"extensions": [
+        "EditorConfig.EditorConfig",
+        "ms-azuretools.vscode-docker",
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "mtxr.sqltools",
+        "mtxr.sqltools-driver-pg",
+        "mutantdino.resourcemonitor",
+        "trinm1709.dracula-theme-from-intellij",
+      ],
+	// Use 'forwardPorts' to make a list of ports inside the container available locally.
+	"forwardPorts": [
+		5000, 8080, 8001, 8000, 8002, 8003
+	],
+    "postCreateCommand": "poetry install",
+    "remoteEnv": {
+        "PYTHONPATH": "${workspaceRoot}/v3/src"
+    }
+	// Use 'postCreateCommand' to run commands after the container is created.
+	// Uncomment to connect as a non-root user. See https://aka.ms/vscode-remote/containers/non-root.
+	// "remoteUser": "node"
+}
