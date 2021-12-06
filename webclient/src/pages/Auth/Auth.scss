@@ -1,0 +1,34 @@
+.auth {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background: linear-gradient(225deg, #161f5e, #435bdc);
+  min-height: 100vh;
+
+  &__buttons {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  &__form {
+    width: 320px;
+    background-color: #fff;
+
+    padding: 20px;
+
+    border-radius: 20px;
+
+    box-shadow: 0 0 16px 0 #161f5e;
+  }
+
+  &__input {
+    width: 100%;
+
+    margin-bottom: 10px;
+  }
+
+  &__title {
+    margin-top: 0;
+  }
+}
