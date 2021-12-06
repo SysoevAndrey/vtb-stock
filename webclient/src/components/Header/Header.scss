@@ -1,0 +1,25 @@
+@import '../../common/styles';
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  border-bottom: 2px solid #051d4d;
+
+  padding: 0 42px;
+
+  height: $header-height;
+  background: linear-gradient(90deg, #0037ff 0%, #0085ff 75%);
+
+  color: #fff;
+
+  &__list {
+    list-style: none;
+  }
+
+  &__logo {
+    font-size: 32px;
+    font-weight: 700;
+  }
+}

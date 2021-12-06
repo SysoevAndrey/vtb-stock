@@ -1,10 +1,12 @@
+@import './common/styles';
+
 .button {
   border: none;
   border-radius: 10px;
 
   background-color: #f4f7fa;
 
-  color: #122790;
+  color: $text-color;
 
   padding: 15px;
 
