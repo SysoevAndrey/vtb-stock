@@ -1,13 +1,18 @@
 import React, { useState } from 'react';
 
+import { useAppContext } from '../../context';
 import './Auth.scss';
 
 const Auth = () => {
+  const { dispatch } = useAppContext();
+
   const [login, setLogin] = useState('');
   const [password, setPassword] = useState('');
 
   const signIn = () => {
     console.log(login, password);
+    
+    dispatch({ type: 'SIGN_IN' });
   };
 
   return (

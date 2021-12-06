@@ -15,6 +15,9 @@
   color: #fff;
 
   &__list {
+    display: flex;
+    gap: 10px;
+
     list-style: none;
   }
 
