@@ -1,0 +1,72 @@
+{
+    "dynamic_templates": [
+        {
+            "search_result_as_string": {
+                "path_match": "search_result.*",
+                "mapping": {
+                    "type": "keyword"
+                }
+            }
+        },
+        {
+            "search_data_as_string": {
+                "path_match": "keyword_search_data.*",
+                "mapping": {
+                    "type": "keyword"
+                }
+            }
+        },
+        {
+            "search_data_as_number": {
+                "path_match": "number_search_data.*",
+                "mapping": {
+                    "type": "double"
+                }
+            }
+        },
+        {
+            "sort_keys_as_number": {
+                "path_match": "number_sort.*",
+                "mapping": {
+                    "type": "double"
+                }
+            }
+        }
+    ],
+    "dynamic": true,
+    "properties": {
+        "type": {
+            "type": "keyword"
+        },
+        "category": {
+            "type": "object",
+            "properties": {
+                "paths": {
+                    "type": "keyword"
+                }
+            }
+        },
+        "keyword_parameters": {
+            "type": "nested",
+            "properties": {
+                "facet_info": {
+                    "type": "keyword"
+                },
+                "facet_value": {
+                    "type": "keyword"
+                }
+            }
+        },
+        "number_parameters": {
+            "type": "nested",
+            "properties": {
+                "facet_info": {
+                    "type": "keyword"
+                },
+                "facet_value": {
+                    "type": "double"
+                }
+            }
+        }
+    }
+}

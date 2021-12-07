@@ -28,6 +28,7 @@ alembic = "^1.7.5"
 Inject = "^4.3.1"
 loguru = "^0.5.3"
 aiohttp = "^3.8.1"
+elasticsearch = "^7.15.2"
 
 [tool.poetry.dev-dependencies]
 black = "^21.11b1"

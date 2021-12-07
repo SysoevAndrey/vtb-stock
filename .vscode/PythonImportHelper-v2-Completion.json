@@ -1,0 +1,4263 @@
+[
+    {
+        "label": "InferringRouter",
+        "importPath": "fastapi_utils.inferring_router",
+        "description": "fastapi_utils.inferring_router",
+        "isExtraImport": true,
+        "detail": "fastapi_utils.inferring_router",
+        "documentation": {}
+    },
+    {
+        "label": "InferringRouter",
+        "importPath": "fastapi_utils.inferring_router",
+        "description": "fastapi_utils.inferring_router",
+        "isExtraImport": true,
+        "detail": "fastapi_utils.inferring_router",
+        "documentation": {}
+    },
+    {
+        "label": "InferringRouter",
+        "importPath": "fastapi_utils.inferring_router",
+        "description": "fastapi_utils.inferring_router",
+        "isExtraImport": true,
+        "detail": "fastapi_utils.inferring_router",
+        "documentation": {}
+    },
+    {
+        "label": "InferringRouter",
+        "importPath": "fastapi_utils.inferring_router",
+        "description": "fastapi_utils.inferring_router",
+        "isExtraImport": true,
+        "detail": "fastapi_utils.inferring_router",
+        "documentation": {}
+    },
+    {
+        "label": "InferringRouter",
+        "importPath": "fastapi_utils.inferring_router",
+        "description": "fastapi_utils.inferring_router",
+        "isExtraImport": true,
+        "detail": "fastapi_utils.inferring_router",
+        "documentation": {}
+    },
+    {
+        "label": "InferringRouter",
+        "importPath": "fastapi_utils.inferring_router",
+        "description": "fastapi_utils.inferring_router",
+        "isExtraImport": true,
+        "detail": "fastapi_utils.inferring_router",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Coroutine",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Type",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Coroutine",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Type",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Coroutine",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Type",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi.params",
+        "description": "fastapi.params",
+        "isExtraImport": true,
+        "detail": "fastapi.params",
+        "documentation": {}
+    },
+    {
+        "label": "Header",
+        "importPath": "fastapi.params",
+        "description": "fastapi.params",
+        "isExtraImport": true,
+        "detail": "fastapi.params",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "fastapi.params",
+        "description": "fastapi.params",
+        "isExtraImport": true,
+        "detail": "fastapi.params",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi.params",
+        "description": "fastapi.params",
+        "isExtraImport": true,
+        "detail": "fastapi.params",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "fastapi.params",
+        "description": "fastapi.params",
+        "isExtraImport": true,
+        "detail": "fastapi.params",
+        "documentation": {}
+    },
+    {
+        "label": "inject",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "inject",
+        "description": "inject",
+        "detail": "inject",
+        "documentation": {}
+    },
+    {
+        "label": "get_api_router",
+        "importPath": "catalog.application.controllers.api_router",
+        "description": "catalog.application.controllers.api_router",
+        "isExtraImport": true,
+        "detail": "catalog.application.controllers.api_router",
+        "documentation": {}
+    },
+    {
+        "label": "cbv",
+        "importPath": "fastapi_utils.cbv",
+        "description": "fastapi_utils.cbv",
+        "isExtraImport": true,
+        "detail": "fastapi_utils.cbv",
+        "documentation": {}
+    },
+    {
+        "label": "cbv",
+        "importPath": "fastapi_utils.cbv",
+        "description": "fastapi_utils.cbv",
+        "isExtraImport": true,
+        "detail": "fastapi_utils.cbv",
+        "documentation": {}
+    },
+    {
+        "label": "cbv",
+        "importPath": "fastapi_utils.cbv",
+        "description": "fastapi_utils.cbv",
+        "isExtraImport": true,
+        "detail": "fastapi_utils.cbv",
+        "documentation": {}
+    },
+    {
+        "label": "cbv",
+        "importPath": "fastapi_utils.cbv",
+        "description": "fastapi_utils.cbv",
+        "isExtraImport": true,
+        "detail": "fastapi_utils.cbv",
+        "documentation": {}
+    },
+    {
+        "label": "cbv",
+        "importPath": "fastapi_utils.cbv",
+        "description": "fastapi_utils.cbv",
+        "isExtraImport": true,
+        "detail": "fastapi_utils.cbv",
+        "documentation": {}
+    },
+    {
+        "label": "CardsPaginatedResponse",
+        "importPath": "catalog.application.presentation.card_list_response",
+        "description": "catalog.application.presentation.card_list_response",
+        "isExtraImport": true,
+        "detail": "catalog.application.presentation.card_list_response",
+        "documentation": {}
+    },
+    {
+        "label": "CardResponse",
+        "importPath": "catalog.application.presentation.card_list_response",
+        "description": "catalog.application.presentation.card_list_response",
+        "isExtraImport": true,
+        "detail": "catalog.application.presentation.card_list_response",
+        "documentation": {}
+    },
+    {
+        "label": "HateoasLinks",
+        "importPath": "catalog.application.presentation.hateoas",
+        "description": "catalog.application.presentation.hateoas",
+        "isExtraImport": true,
+        "detail": "catalog.application.presentation.hateoas",
+        "documentation": {}
+    },
+    {
+        "label": "Link",
+        "importPath": "catalog.application.presentation.hateoas",
+        "description": "catalog.application.presentation.hateoas",
+        "isExtraImport": true,
+        "detail": "catalog.application.presentation.hateoas",
+        "documentation": {}
+    },
+    {
+        "label": "HateoasLinks",
+        "importPath": "catalog.application.presentation.hateoas",
+        "description": "catalog.application.presentation.hateoas",
+        "isExtraImport": true,
+        "detail": "catalog.application.presentation.hateoas",
+        "documentation": {}
+    },
+    {
+        "label": "FiltersRequestSchema",
+        "importPath": "catalog.application.request_mapper.filters_request",
+        "description": "catalog.application.request_mapper.filters_request",
+        "isExtraImport": true,
+        "detail": "catalog.application.request_mapper.filters_request",
+        "documentation": {}
+    },
+    {
+        "label": "FiltersRequest",
+        "importPath": "catalog.application.request_mapper.filters_request",
+        "description": "catalog.application.request_mapper.filters_request",
+        "isExtraImport": true,
+        "detail": "catalog.application.request_mapper.filters_request",
+        "documentation": {}
+    },
+    {
+        "label": "FiltersRequest",
+        "importPath": "catalog.application.request_mapper.filters_request",
+        "description": "catalog.application.request_mapper.filters_request",
+        "isExtraImport": true,
+        "detail": "catalog.application.request_mapper.filters_request",
+        "documentation": {}
+    },
+    {
+        "label": "SelectedParameter",
+        "importPath": "catalog.application.request_mapper.filters_request",
+        "description": "catalog.application.request_mapper.filters_request",
+        "isExtraImport": true,
+        "detail": "catalog.application.request_mapper.filters_request",
+        "documentation": {}
+    },
+    {
+        "label": "CardListService",
+        "importPath": "catalog.core.services.card_list_service",
+        "description": "catalog.core.services.card_list_service",
+        "isExtraImport": true,
+        "detail": "catalog.core.services.card_list_service",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "loguru",
+        "description": "loguru",
+        "isExtraImport": true,
+        "detail": "loguru",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "loguru",
+        "description": "loguru",
+        "isExtraImport": true,
+        "detail": "loguru",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "loguru",
+        "description": "loguru",
+        "isExtraImport": true,
+        "detail": "loguru",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "loguru",
+        "description": "loguru",
+        "isExtraImport": true,
+        "detail": "loguru",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "loguru",
+        "description": "loguru",
+        "isExtraImport": true,
+        "detail": "loguru",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "loguru",
+        "description": "loguru",
+        "isExtraImport": true,
+        "detail": "loguru",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "loguru",
+        "description": "loguru",
+        "isExtraImport": true,
+        "detail": "loguru",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "loguru",
+        "description": "loguru",
+        "isExtraImport": true,
+        "detail": "loguru",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "HttpUrl",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "UUID4",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseConfig",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseConfig",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic.fields",
+        "description": "pydantic.fields",
+        "isExtraImport": true,
+        "detail": "pydantic.fields",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic.fields",
+        "description": "pydantic.fields",
+        "isExtraImport": true,
+        "detail": "pydantic.fields",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic.fields",
+        "description": "pydantic.fields",
+        "isExtraImport": true,
+        "detail": "pydantic.fields",
+        "documentation": {}
+    },
+    {
+        "label": "UUID4",
+        "importPath": "pydantic.types",
+        "description": "pydantic.types",
+        "isExtraImport": true,
+        "detail": "pydantic.types",
+        "documentation": {}
+    },
+    {
+        "label": "UUID4",
+        "importPath": "pydantic.types",
+        "description": "pydantic.types",
+        "isExtraImport": true,
+        "detail": "pydantic.types",
+        "documentation": {}
+    },
+    {
+        "label": "UUID4",
+        "importPath": "pydantic.types",
+        "description": "pydantic.types",
+        "isExtraImport": true,
+        "detail": "pydantic.types",
+        "documentation": {}
+    },
+    {
+        "label": "UUID4",
+        "importPath": "pydantic.types",
+        "description": "pydantic.types",
+        "isExtraImport": true,
+        "detail": "pydantic.types",
+        "documentation": {}
+    },
+    {
+        "label": "UUID4",
+        "importPath": "pydantic.types",
+        "description": "pydantic.types",
+        "isExtraImport": true,
+        "detail": "pydantic.types",
+        "documentation": {}
+    },
+    {
+        "label": "UUID4",
+        "importPath": "pydantic.types",
+        "description": "pydantic.types",
+        "isExtraImport": true,
+        "detail": "pydantic.types",
+        "documentation": {}
+    },
+    {
+        "label": "HttpUrl",
+        "importPath": "pydantic.networks",
+        "description": "pydantic.networks",
+        "isExtraImport": true,
+        "detail": "pydantic.networks",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "marshmallow",
+        "description": "marshmallow",
+        "isExtraImport": true,
+        "detail": "marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "pre_load",
+        "importPath": "marshmallow",
+        "description": "marshmallow",
+        "isExtraImport": true,
+        "detail": "marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "marshmallow",
+        "description": "marshmallow",
+        "isExtraImport": true,
+        "detail": "marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "marshmallow",
+        "description": "marshmallow",
+        "isExtraImport": true,
+        "detail": "marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "marshmallow",
+        "description": "marshmallow",
+        "isExtraImport": true,
+        "detail": "marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "marshmallow",
+        "description": "marshmallow",
+        "isExtraImport": true,
+        "detail": "marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "marshmallow",
+        "description": "marshmallow",
+        "isExtraImport": true,
+        "detail": "marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "marshmallow",
+        "description": "marshmallow",
+        "isExtraImport": true,
+        "detail": "marshmallow",
+        "documentation": {}
+    },
+    {
+        "label": "EnumField",
+        "importPath": "marshmallow_enum",
+        "description": "marshmallow_enum",
+        "isExtraImport": true,
+        "detail": "marshmallow_enum",
+        "documentation": {}
+    },
+    {
+        "label": "EnumField",
+        "importPath": "marshmallow_enum",
+        "description": "marshmallow_enum",
+        "isExtraImport": true,
+        "detail": "marshmallow_enum",
+        "documentation": {}
+    },
+    {
+        "label": "EnumField",
+        "importPath": "marshmallow_enum",
+        "description": "marshmallow_enum",
+        "isExtraImport": true,
+        "detail": "marshmallow_enum",
+        "documentation": {}
+    },
+    {
+        "label": "EnumField",
+        "importPath": "marshmallow_enum",
+        "description": "marshmallow_enum",
+        "isExtraImport": true,
+        "detail": "marshmallow_enum",
+        "documentation": {}
+    },
+    {
+        "label": "EnumField",
+        "importPath": "marshmallow_enum",
+        "description": "marshmallow_enum",
+        "isExtraImport": true,
+        "detail": "marshmallow_enum",
+        "documentation": {}
+    },
+    {
+        "label": "EnumField",
+        "importPath": "marshmallow_enum",
+        "description": "marshmallow_enum",
+        "isExtraImport": true,
+        "detail": "marshmallow_enum",
+        "documentation": {}
+    },
+    {
+        "label": "EnumField",
+        "importPath": "marshmallow_enum",
+        "description": "marshmallow_enum",
+        "isExtraImport": true,
+        "detail": "marshmallow_enum",
+        "documentation": {}
+    },
+    {
+        "label": "RequestSchema",
+        "importPath": "catalog.application.request_mapper",
+        "description": "catalog.application.request_mapper",
+        "isExtraImport": true,
+        "detail": "catalog.application.request_mapper",
+        "documentation": {}
+    },
+    {
+        "label": "ParameterType",
+        "importPath": "catalog.core.domain.available_parameter",
+        "description": "catalog.core.domain.available_parameter",
+        "isExtraImport": true,
+        "detail": "catalog.core.domain.available_parameter",
+        "documentation": {}
+    },
+    {
+        "label": "AvailableParameter",
+        "importPath": "catalog.core.domain.available_parameter",
+        "description": "catalog.core.domain.available_parameter",
+        "isExtraImport": true,
+        "detail": "catalog.core.domain.available_parameter",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "card_list_router",
+        "importPath": "catalog.application.controllers",
+        "description": "catalog.application.controllers",
+        "isExtraImport": true,
+        "detail": "catalog.application.controllers",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "replace",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "uuid4",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "importPath": "catalog.core.domain.category",
+        "description": "catalog.core.domain.category",
+        "isExtraImport": true,
+        "detail": "catalog.core.domain.category",
+        "documentation": {}
+    },
+    {
+        "label": "SortKey",
+        "importPath": "catalog.core.domain.sort_key",
+        "description": "catalog.core.domain.sort_key",
+        "isExtraImport": true,
+        "detail": "catalog.core.domain.sort_key",
+        "documentation": {}
+    },
+    {
+        "label": "Card",
+        "importPath": "catalog.core.domain.card",
+        "description": "catalog.core.domain.card",
+        "isExtraImport": true,
+        "detail": "catalog.core.domain.card",
+        "documentation": {}
+    },
+    {
+        "label": "Card",
+        "importPath": "catalog.core.domain.card",
+        "description": "catalog.core.domain.card",
+        "isExtraImport": true,
+        "detail": "catalog.core.domain.card",
+        "documentation": {}
+    },
+    {
+        "label": "ESCardsQueryService",
+        "importPath": "catalog.infrastructure.gateways.es_cards_query_service",
+        "description": "catalog.infrastructure.gateways.es_cards_query_service",
+        "isExtraImport": true,
+        "detail": "catalog.infrastructure.gateways.es_cards_query_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_error_handlers",
+        "importPath": "catalog.application",
+        "description": "catalog.application",
+        "isExtraImport": true,
+        "detail": "catalog.application",
+        "documentation": {}
+    },
+    {
+        "label": "get_routers",
+        "importPath": "catalog.application",
+        "description": "catalog.application",
+        "isExtraImport": true,
+        "detail": "catalog.application",
+        "documentation": {}
+    },
+    {
+        "label": "bind",
+        "importPath": "catalog.entrypoint.bindings",
+        "description": "catalog.entrypoint.bindings",
+        "isExtraImport": true,
+        "detail": "catalog.entrypoint.bindings",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "catalog.entrypoint.config",
+        "description": "catalog.entrypoint.config",
+        "isExtraImport": true,
+        "detail": "catalog.entrypoint.config",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "catalog.entrypoint.config",
+        "description": "catalog.entrypoint.config",
+        "isExtraImport": true,
+        "detail": "catalog.entrypoint.config",
+        "documentation": {}
+    },
+    {
+        "label": "partial",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "partial",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "partial",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncElasticsearch",
+        "importPath": "elasticsearch",
+        "description": "elasticsearch",
+        "isExtraImport": true,
+        "detail": "elasticsearch",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "importPath": "catalog.entrypoint",
+        "description": "catalog.entrypoint",
+        "isExtraImport": true,
+        "detail": "catalog.entrypoint",
+        "documentation": {}
+    },
+    {
+        "label": "get_api_router",
+        "importPath": "gateway.application.controllers.api_router",
+        "description": "gateway.application.controllers.api_router",
+        "isExtraImport": true,
+        "detail": "gateway.application.controllers.api_router",
+        "documentation": {}
+    },
+    {
+        "label": "get_api_router",
+        "importPath": "gateway.application.controllers.api_router",
+        "description": "gateway.application.controllers.api_router",
+        "isExtraImport": true,
+        "detail": "gateway.application.controllers.api_router",
+        "documentation": {}
+    },
+    {
+        "label": "CarListResponse",
+        "importPath": "gateway.application.presentation.car_list_response",
+        "description": "gateway.application.presentation.car_list_response",
+        "isExtraImport": true,
+        "detail": "gateway.application.presentation.car_list_response",
+        "documentation": {}
+    },
+    {
+        "label": "CarListResponsePresentationSchema",
+        "importPath": "gateway.application.presentation.car_list_response",
+        "description": "gateway.application.presentation.car_list_response",
+        "isExtraImport": true,
+        "detail": "gateway.application.presentation.car_list_response",
+        "documentation": {}
+    },
+    {
+        "label": "CarResponsePresentationSchema",
+        "importPath": "gateway.application.presentation.car_list_response",
+        "description": "gateway.application.presentation.car_list_response",
+        "isExtraImport": true,
+        "detail": "gateway.application.presentation.car_list_response",
+        "documentation": {}
+    },
+    {
+        "label": "CarProxyService",
+        "importPath": "gateway.core.services.car_proxy_service",
+        "description": "gateway.core.services.car_proxy_service",
+        "isExtraImport": true,
+        "detail": "gateway.core.services.car_proxy_service",
+        "documentation": {}
+    },
+    {
+        "label": "CarProxyService",
+        "importPath": "gateway.core.services.car_proxy_service",
+        "description": "gateway.core.services.car_proxy_service",
+        "isExtraImport": true,
+        "detail": "gateway.core.services.car_proxy_service",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "starlette.responses",
+        "description": "starlette.responses",
+        "isExtraImport": true,
+        "detail": "starlette.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "starlette.responses",
+        "description": "starlette.responses",
+        "isExtraImport": true,
+        "detail": "starlette.responses",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "starlette.responses",
+        "description": "starlette.responses",
+        "isExtraImport": true,
+        "detail": "starlette.responses",
+        "documentation": {}
+    },
+    {
+        "label": "NotFoundError",
+        "importPath": "gateway.application.presentation.errors",
+        "description": "gateway.application.presentation.errors",
+        "isExtraImport": true,
+        "detail": "gateway.application.presentation.errors",
+        "documentation": {}
+    },
+    {
+        "label": "PayedRentalResponse",
+        "importPath": "gateway.application.presentation.rental_response",
+        "description": "gateway.application.presentation.rental_response",
+        "isExtraImport": true,
+        "detail": "gateway.application.presentation.rental_response",
+        "documentation": {}
+    },
+    {
+        "label": "PayedRentalResponsePresnetationSchema",
+        "importPath": "gateway.application.presentation.rental_response",
+        "description": "gateway.application.presentation.rental_response",
+        "isExtraImport": true,
+        "detail": "gateway.application.presentation.rental_response",
+        "documentation": {}
+    },
+    {
+        "label": "RentalResponse",
+        "importPath": "gateway.application.presentation.rental_response",
+        "description": "gateway.application.presentation.rental_response",
+        "isExtraImport": true,
+        "detail": "gateway.application.presentation.rental_response",
+        "documentation": {}
+    },
+    {
+        "label": "RentalResponsePresentationSchema",
+        "importPath": "gateway.application.presentation.rental_response",
+        "description": "gateway.application.presentation.rental_response",
+        "isExtraImport": true,
+        "detail": "gateway.application.presentation.rental_response",
+        "documentation": {}
+    },
+    {
+        "label": "CreateRentalRequest",
+        "importPath": "gateway.application.request_mapper.create_rental_request",
+        "description": "gateway.application.request_mapper.create_rental_request",
+        "isExtraImport": true,
+        "detail": "gateway.application.request_mapper.create_rental_request",
+        "documentation": {}
+    },
+    {
+        "label": "CreateRentalRequest",
+        "importPath": "gateway.application.request_mapper.create_rental_request",
+        "description": "gateway.application.request_mapper.create_rental_request",
+        "isExtraImport": true,
+        "detail": "gateway.application.request_mapper.create_rental_request",
+        "documentation": {}
+    },
+    {
+        "label": "CreateRentalRequest",
+        "importPath": "gateway.application.request_mapper.create_rental_request",
+        "description": "gateway.application.request_mapper.create_rental_request",
+        "isExtraImport": true,
+        "detail": "gateway.application.request_mapper.create_rental_request",
+        "documentation": {}
+    },
+    {
+        "label": "RentalProxyService",
+        "importPath": "gateway.core.services.rental_proxy_service",
+        "description": "gateway.core.services.rental_proxy_service",
+        "isExtraImport": true,
+        "detail": "gateway.core.services.rental_proxy_service",
+        "documentation": {}
+    },
+    {
+        "label": "RentalProxyService",
+        "importPath": "gateway.core.services.rental_proxy_service",
+        "description": "gateway.core.services.rental_proxy_service",
+        "isExtraImport": true,
+        "detail": "gateway.core.services.rental_proxy_service",
+        "documentation": {}
+    },
+    {
+        "label": "HTTP_204_NO_CONTENT",
+        "importPath": "starlette.status",
+        "description": "starlette.status",
+        "isExtraImport": true,
+        "detail": "starlette.status",
+        "documentation": {}
+    },
+    {
+        "label": "HTTP_201_CREATED",
+        "importPath": "starlette.status",
+        "description": "starlette.status",
+        "isExtraImport": true,
+        "detail": "starlette.status",
+        "documentation": {}
+    },
+    {
+        "label": "HTTP_204_NO_CONTENT",
+        "importPath": "starlette.status",
+        "description": "starlette.status",
+        "isExtraImport": true,
+        "detail": "starlette.status",
+        "documentation": {}
+    },
+    {
+        "label": "HTTP_404_NOT_FOUND",
+        "importPath": "starlette.status",
+        "description": "starlette.status",
+        "isExtraImport": true,
+        "detail": "starlette.status",
+        "documentation": {}
+    },
+    {
+        "label": "PresentationSchema",
+        "importPath": "gateway.application.presentation",
+        "description": "gateway.application.presentation",
+        "isExtraImport": true,
+        "detail": "gateway.application.presentation",
+        "documentation": {}
+    },
+    {
+        "label": "PresentationSchema",
+        "importPath": "gateway.application.presentation",
+        "description": "gateway.application.presentation",
+        "isExtraImport": true,
+        "detail": "gateway.application.presentation",
+        "documentation": {}
+    },
+    {
+        "label": "CarType",
+        "importPath": "gateway.core.domain.car",
+        "description": "gateway.core.domain.car",
+        "isExtraImport": true,
+        "detail": "gateway.core.domain.car",
+        "documentation": {}
+    },
+    {
+        "label": "Car",
+        "importPath": "gateway.core.domain.car",
+        "description": "gateway.core.domain.car",
+        "isExtraImport": true,
+        "detail": "gateway.core.domain.car",
+        "documentation": {}
+    },
+    {
+        "label": "CarsResult",
+        "importPath": "gateway.core.domain.car",
+        "description": "gateway.core.domain.car",
+        "isExtraImport": true,
+        "detail": "gateway.core.domain.car",
+        "documentation": {}
+    },
+    {
+        "label": "Car",
+        "importPath": "gateway.core.domain.car",
+        "description": "gateway.core.domain.car",
+        "isExtraImport": true,
+        "detail": "gateway.core.domain.car",
+        "documentation": {}
+    },
+    {
+        "label": "CarType",
+        "importPath": "gateway.core.domain.car",
+        "description": "gateway.core.domain.car",
+        "isExtraImport": true,
+        "detail": "gateway.core.domain.car",
+        "documentation": {}
+    },
+    {
+        "label": "CarsResult",
+        "importPath": "gateway.core.domain.car",
+        "description": "gateway.core.domain.car",
+        "isExtraImport": true,
+        "detail": "gateway.core.domain.car",
+        "documentation": {}
+    },
+    {
+        "label": "Car",
+        "importPath": "gateway.core.domain.car",
+        "description": "gateway.core.domain.car",
+        "isExtraImport": true,
+        "detail": "gateway.core.domain.car",
+        "documentation": {}
+    },
+    {
+        "label": "CarsResult",
+        "importPath": "gateway.core.domain.car",
+        "description": "gateway.core.domain.car",
+        "isExtraImport": true,
+        "detail": "gateway.core.domain.car",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentStatus",
+        "importPath": "gateway.core.domain.payment",
+        "description": "gateway.core.domain.payment",
+        "isExtraImport": true,
+        "detail": "gateway.core.domain.payment",
+        "documentation": {}
+    },
+    {
+        "label": "Payment",
+        "importPath": "gateway.core.domain.payment",
+        "description": "gateway.core.domain.payment",
+        "isExtraImport": true,
+        "detail": "gateway.core.domain.payment",
+        "documentation": {}
+    },
+    {
+        "label": "Payment",
+        "importPath": "gateway.core.domain.payment",
+        "description": "gateway.core.domain.payment",
+        "isExtraImport": true,
+        "detail": "gateway.core.domain.payment",
+        "documentation": {}
+    },
+    {
+        "label": "Payment",
+        "importPath": "gateway.core.domain.payment",
+        "description": "gateway.core.domain.payment",
+        "isExtraImport": true,
+        "detail": "gateway.core.domain.payment",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentStatus",
+        "importPath": "gateway.core.domain.payment",
+        "description": "gateway.core.domain.payment",
+        "isExtraImport": true,
+        "detail": "gateway.core.domain.payment",
+        "documentation": {}
+    },
+    {
+        "label": "Payment",
+        "importPath": "gateway.core.domain.payment",
+        "description": "gateway.core.domain.payment",
+        "isExtraImport": true,
+        "detail": "gateway.core.domain.payment",
+        "documentation": {}
+    },
+    {
+        "label": "RentalStatus",
+        "importPath": "gateway.core.domain.rental",
+        "description": "gateway.core.domain.rental",
+        "isExtraImport": true,
+        "detail": "gateway.core.domain.rental",
+        "documentation": {}
+    },
+    {
+        "label": "Rental",
+        "importPath": "gateway.core.domain.rental",
+        "description": "gateway.core.domain.rental",
+        "isExtraImport": true,
+        "detail": "gateway.core.domain.rental",
+        "documentation": {}
+    },
+    {
+        "label": "RentalStatus",
+        "importPath": "gateway.core.domain.rental",
+        "description": "gateway.core.domain.rental",
+        "isExtraImport": true,
+        "detail": "gateway.core.domain.rental",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic.main",
+        "description": "pydantic.main",
+        "isExtraImport": true,
+        "detail": "pydantic.main",
+        "documentation": {}
+    },
+    {
+        "label": "aiohttp",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "aiohttp",
+        "description": "aiohttp",
+        "detail": "aiohttp",
+        "documentation": {}
+    },
+    {
+        "label": "ClientResponseError",
+        "importPath": "aiohttp",
+        "description": "aiohttp",
+        "isExtraImport": true,
+        "detail": "aiohttp",
+        "documentation": {}
+    },
+    {
+        "label": "cars_proxy_router",
+        "importPath": "gateway.application.controllers",
+        "description": "gateway.application.controllers",
+        "isExtraImport": true,
+        "detail": "gateway.application.controllers",
+        "documentation": {}
+    },
+    {
+        "label": "rental_proxy_router",
+        "importPath": "gateway.application.controllers",
+        "description": "gateway.application.controllers",
+        "isExtraImport": true,
+        "detail": "gateway.application.controllers",
+        "documentation": {}
+    },
+    {
+        "label": "CarsAdapter",
+        "importPath": "gateway.infrastructure.gateways.cars_adapter",
+        "description": "gateway.infrastructure.gateways.cars_adapter",
+        "isExtraImport": true,
+        "detail": "gateway.infrastructure.gateways.cars_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "CarsAdapter",
+        "importPath": "gateway.infrastructure.gateways.cars_adapter",
+        "description": "gateway.infrastructure.gateways.cars_adapter",
+        "isExtraImport": true,
+        "detail": "gateway.infrastructure.gateways.cars_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "CarsAdapter",
+        "importPath": "gateway.infrastructure.gateways.cars_adapter",
+        "description": "gateway.infrastructure.gateways.cars_adapter",
+        "isExtraImport": true,
+        "detail": "gateway.infrastructure.gateways.cars_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "RentalProjection",
+        "importPath": "gateway.infrastructure.gateways.loaders.rental_schema",
+        "description": "gateway.infrastructure.gateways.loaders.rental_schema",
+        "isExtraImport": true,
+        "detail": "gateway.infrastructure.gateways.loaders.rental_schema",
+        "documentation": {}
+    },
+    {
+        "label": "RentalProjection",
+        "importPath": "gateway.infrastructure.gateways.loaders.rental_schema",
+        "description": "gateway.infrastructure.gateways.loaders.rental_schema",
+        "isExtraImport": true,
+        "detail": "gateway.infrastructure.gateways.loaders.rental_schema",
+        "documentation": {}
+    },
+    {
+        "label": "RentalProjectionSchema",
+        "importPath": "gateway.infrastructure.gateways.loaders.rental_schema",
+        "description": "gateway.infrastructure.gateways.loaders.rental_schema",
+        "isExtraImport": true,
+        "detail": "gateway.infrastructure.gateways.loaders.rental_schema",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentsAdapter",
+        "importPath": "gateway.infrastructure.gateways.payments_adapter",
+        "description": "gateway.infrastructure.gateways.payments_adapter",
+        "isExtraImport": true,
+        "detail": "gateway.infrastructure.gateways.payments_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentsAdapter",
+        "importPath": "gateway.infrastructure.gateways.payments_adapter",
+        "description": "gateway.infrastructure.gateways.payments_adapter",
+        "isExtraImport": true,
+        "detail": "gateway.infrastructure.gateways.payments_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "RentalsAdapter",
+        "importPath": "gateway.infrastructure.gateways.rentals_adapter",
+        "description": "gateway.infrastructure.gateways.rentals_adapter",
+        "isExtraImport": true,
+        "detail": "gateway.infrastructure.gateways.rentals_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "RentalsAdapter",
+        "importPath": "gateway.infrastructure.gateways.rentals_adapter",
+        "description": "gateway.infrastructure.gateways.rentals_adapter",
+        "isExtraImport": true,
+        "detail": "gateway.infrastructure.gateways.rentals_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "get_error_handlers",
+        "importPath": "gateway.application",
+        "description": "gateway.application",
+        "isExtraImport": true,
+        "detail": "gateway.application",
+        "documentation": {}
+    },
+    {
+        "label": "get_routers",
+        "importPath": "gateway.application",
+        "description": "gateway.application",
+        "isExtraImport": true,
+        "detail": "gateway.application",
+        "documentation": {}
+    },
+    {
+        "label": "bind",
+        "importPath": "gateway.entrypoint.bindings",
+        "description": "gateway.entrypoint.bindings",
+        "isExtraImport": true,
+        "detail": "gateway.entrypoint.bindings",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "gateway.entrypoint.config",
+        "description": "gateway.entrypoint.config",
+        "isExtraImport": true,
+        "detail": "gateway.entrypoint.config",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "gateway.entrypoint.config",
+        "description": "gateway.entrypoint.config",
+        "isExtraImport": true,
+        "detail": "gateway.entrypoint.config",
+        "documentation": {}
+    },
+    {
+        "label": "LoaderSchema",
+        "importPath": "gateway.infrastructure.gateways.loaders",
+        "description": "gateway.infrastructure.gateways.loaders",
+        "isExtraImport": true,
+        "detail": "gateway.infrastructure.gateways.loaders",
+        "documentation": {}
+    },
+    {
+        "label": "LoaderSchema",
+        "importPath": "gateway.infrastructure.gateways.loaders",
+        "description": "gateway.infrastructure.gateways.loaders",
+        "isExtraImport": true,
+        "detail": "gateway.infrastructure.gateways.loaders",
+        "documentation": {}
+    },
+    {
+        "label": "LoaderSchema",
+        "importPath": "gateway.infrastructure.gateways.loaders",
+        "description": "gateway.infrastructure.gateways.loaders",
+        "isExtraImport": true,
+        "detail": "gateway.infrastructure.gateways.loaders",
+        "documentation": {}
+    },
+    {
+        "label": "CarLoaderSchema",
+        "importPath": "gateway.infrastructure.gateways.loaders.car_schema",
+        "description": "gateway.infrastructure.gateways.loaders.car_schema",
+        "isExtraImport": true,
+        "detail": "gateway.infrastructure.gateways.loaders.car_schema",
+        "documentation": {}
+    },
+    {
+        "label": "CarResultLoaderSchema",
+        "importPath": "gateway.infrastructure.gateways.loaders.car_schema",
+        "description": "gateway.infrastructure.gateways.loaders.car_schema",
+        "isExtraImport": true,
+        "detail": "gateway.infrastructure.gateways.loaders.car_schema",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentLoaderSchema",
+        "importPath": "gateway.infrastructure.gateways.loaders.payment_schema",
+        "description": "gateway.infrastructure.gateways.loaders.payment_schema",
+        "isExtraImport": true,
+        "detail": "gateway.infrastructure.gateways.loaders.payment_schema",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "importPath": "gateway.entrypoint",
+        "description": "gateway.entrypoint",
+        "isExtraImport": true,
+        "detail": "gateway.entrypoint",
+        "documentation": {}
+    },
+    {
+        "label": "ABCMeta",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABCMeta",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncEngine",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "async_scoped_session",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncEngine",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "async_scoped_session",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "create_async_engine",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncSession",
+        "importPath": "sqlalchemy.ext.asyncio",
+        "description": "sqlalchemy.ext.asyncio",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "MetaData",
+        "importPath": "sqlalchemy.sql.schema",
+        "description": "sqlalchemy.sql.schema",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.sql.schema",
+        "documentation": {}
+    },
+    {
+        "label": "MetaData",
+        "importPath": "sqlalchemy.sql.schema",
+        "description": "sqlalchemy.sql.schema",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.sql.schema",
+        "documentation": {}
+    },
+    {
+        "label": "MetaData",
+        "importPath": "sqlalchemy.sql.schema",
+        "description": "sqlalchemy.sql.schema",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.sql.schema",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemyDatabaseConnector",
+        "importPath": "shared_kernel.database.connectors.base_connector",
+        "description": "shared_kernel.database.connectors.base_connector",
+        "isExtraImport": true,
+        "detail": "shared_kernel.database.connectors.base_connector",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemyDatabaseConnector",
+        "importPath": "shared_kernel.database.connectors.base_connector",
+        "description": "shared_kernel.database.connectors.base_connector",
+        "isExtraImport": true,
+        "detail": "shared_kernel.database.connectors.base_connector",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemyDatabaseConnector",
+        "importPath": "shared_kernel.database.connectors.base_connector",
+        "description": "shared_kernel.database.connectors.base_connector",
+        "isExtraImport": true,
+        "detail": "shared_kernel.database.connectors.base_connector",
+        "documentation": {}
+    },
+    {
+        "label": "PostgreSQLConnector",
+        "importPath": "shared_kernel.database.connectors.postgresql",
+        "description": "shared_kernel.database.connectors.postgresql",
+        "isExtraImport": true,
+        "detail": "shared_kernel.database.connectors.postgresql",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "current_task",
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "isExtraImport": true,
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "mapper",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "NullPool",
+        "importPath": "sqlalchemy.pool",
+        "description": "sqlalchemy.pool",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.pool",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemyDatabaseConnector",
+        "importPath": "shared_kernel.database.connectors",
+        "description": "shared_kernel.database.connectors",
+        "isExtraImport": true,
+        "detail": "shared_kernel.database.connectors",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemyDatabaseConnector",
+        "importPath": "shared_kernel.database.connectors",
+        "description": "shared_kernel.database.connectors",
+        "isExtraImport": true,
+        "detail": "shared_kernel.database.connectors",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemyDatabaseConnector",
+        "importPath": "shared_kernel.database.connectors",
+        "description": "shared_kernel.database.connectors",
+        "isExtraImport": true,
+        "detail": "shared_kernel.database.connectors",
+        "documentation": {}
+    },
+    {
+        "label": "get_postgresql_connector",
+        "importPath": "shared_kernel.database.connectors",
+        "description": "shared_kernel.database.connectors",
+        "isExtraImport": true,
+        "detail": "shared_kernel.database.connectors",
+        "documentation": {}
+    },
+    {
+        "label": "get_postgresql_connector",
+        "importPath": "shared_kernel.database.connectors",
+        "description": "shared_kernel.database.connectors",
+        "isExtraImport": true,
+        "detail": "shared_kernel.database.connectors",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemyDatabaseConnector",
+        "importPath": "shared_kernel.database.connectors",
+        "description": "shared_kernel.database.connectors",
+        "isExtraImport": true,
+        "detail": "shared_kernel.database.connectors",
+        "documentation": {}
+    },
+    {
+        "label": "SessionHolder",
+        "importPath": "shared_kernel.database.transaction.session_holder",
+        "description": "shared_kernel.database.transaction.session_holder",
+        "isExtraImport": true,
+        "detail": "shared_kernel.database.transaction.session_holder",
+        "documentation": {}
+    },
+    {
+        "label": "Transaction",
+        "importPath": "shared_kernel.database.transaction.transaction",
+        "description": "shared_kernel.database.transaction.transaction",
+        "isExtraImport": true,
+        "detail": "shared_kernel.database.transaction.transaction",
+        "documentation": {}
+    },
+    {
+        "label": "inspect",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "inspect",
+        "description": "inspect",
+        "detail": "inspect",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "ContextVar",
+        "importPath": "contextvars",
+        "description": "contextvars",
+        "isExtraImport": true,
+        "detail": "contextvars",
+        "documentation": {}
+    },
+    {
+        "label": "ContextVar",
+        "importPath": "contextvars",
+        "description": "contextvars",
+        "isExtraImport": true,
+        "detail": "contextvars",
+        "documentation": {}
+    },
+    {
+        "label": "get_api_router",
+        "importPath": "stock.application.controllers.api_router",
+        "description": "stock.application.controllers.api_router",
+        "isExtraImport": true,
+        "detail": "stock.application.controllers.api_router",
+        "documentation": {}
+    },
+    {
+        "label": "get_api_router",
+        "importPath": "stock.application.controllers.api_router",
+        "description": "stock.application.controllers.api_router",
+        "isExtraImport": true,
+        "detail": "stock.application.controllers.api_router",
+        "documentation": {}
+    },
+    {
+        "label": "CarListResponse",
+        "importPath": "stock.application.presentation.car_list_response",
+        "description": "stock.application.presentation.car_list_response",
+        "isExtraImport": true,
+        "detail": "stock.application.presentation.car_list_response",
+        "documentation": {}
+    },
+    {
+        "label": "CarListResponsePresentationSchema",
+        "importPath": "stock.application.presentation.car_list_response",
+        "description": "stock.application.presentation.car_list_response",
+        "isExtraImport": true,
+        "detail": "stock.application.presentation.car_list_response",
+        "documentation": {}
+    },
+    {
+        "label": "CarResponse",
+        "importPath": "stock.application.presentation.car_list_response",
+        "description": "stock.application.presentation.car_list_response",
+        "isExtraImport": true,
+        "detail": "stock.application.presentation.car_list_response",
+        "documentation": {}
+    },
+    {
+        "label": "CarResponsePresentationSchema",
+        "importPath": "stock.application.presentation.car_list_response",
+        "description": "stock.application.presentation.car_list_response",
+        "isExtraImport": true,
+        "detail": "stock.application.presentation.car_list_response",
+        "documentation": {}
+    },
+    {
+        "label": "CarResponse",
+        "importPath": "stock.application.presentation.car_list_response",
+        "description": "stock.application.presentation.car_list_response",
+        "isExtraImport": true,
+        "detail": "stock.application.presentation.car_list_response",
+        "documentation": {}
+    },
+    {
+        "label": "CarResponsePresentationSchema",
+        "importPath": "stock.application.presentation.car_list_response",
+        "description": "stock.application.presentation.car_list_response",
+        "isExtraImport": true,
+        "detail": "stock.application.presentation.car_list_response",
+        "documentation": {}
+    },
+    {
+        "label": "CreateCarRequest",
+        "importPath": "stock.application.request_mapper.create_car_request",
+        "description": "stock.application.request_mapper.create_car_request",
+        "isExtraImport": true,
+        "detail": "stock.application.request_mapper.create_car_request",
+        "documentation": {}
+    },
+    {
+        "label": "CreateCarRequest",
+        "importPath": "stock.application.request_mapper.create_car_request",
+        "description": "stock.application.request_mapper.create_car_request",
+        "isExtraImport": true,
+        "detail": "stock.application.request_mapper.create_car_request",
+        "documentation": {}
+    },
+    {
+        "label": "CreateCarRequest",
+        "importPath": "stock.application.request_mapper.create_car_request",
+        "description": "stock.application.request_mapper.create_car_request",
+        "isExtraImport": true,
+        "detail": "stock.application.request_mapper.create_car_request",
+        "documentation": {}
+    },
+    {
+        "label": "CarListService",
+        "importPath": "stock.core.services.car_list_service",
+        "description": "stock.core.services.car_list_service",
+        "isExtraImport": true,
+        "detail": "stock.core.services.car_list_service",
+        "documentation": {}
+    },
+    {
+        "label": "CarListService",
+        "importPath": "stock.core.services.car_list_service",
+        "description": "stock.core.services.car_list_service",
+        "isExtraImport": true,
+        "detail": "stock.core.services.car_list_service",
+        "documentation": {}
+    },
+    {
+        "label": "CarListService",
+        "importPath": "stock.core.services.car_list_service",
+        "description": "stock.core.services.car_list_service",
+        "isExtraImport": true,
+        "detail": "stock.core.services.car_list_service",
+        "documentation": {}
+    },
+    {
+        "label": "CarListService",
+        "importPath": "stock.core.services.car_list_service",
+        "description": "stock.core.services.car_list_service",
+        "isExtraImport": true,
+        "detail": "stock.core.services.car_list_service",
+        "documentation": {}
+    },
+    {
+        "label": "NotFoundError",
+        "importPath": "stock.application.presentation.errors",
+        "description": "stock.application.presentation.errors",
+        "isExtraImport": true,
+        "detail": "stock.application.presentation.errors",
+        "documentation": {}
+    },
+    {
+        "label": "PresentationSchema",
+        "importPath": "stock.application.presentation",
+        "description": "stock.application.presentation",
+        "isExtraImport": true,
+        "detail": "stock.application.presentation",
+        "documentation": {}
+    },
+    {
+        "label": "CarType",
+        "importPath": "stock.core.domain.car",
+        "description": "stock.core.domain.car",
+        "isExtraImport": true,
+        "detail": "stock.core.domain.car",
+        "documentation": {}
+    },
+    {
+        "label": "CarType",
+        "importPath": "stock.core.domain.car",
+        "description": "stock.core.domain.car",
+        "isExtraImport": true,
+        "detail": "stock.core.domain.car",
+        "documentation": {}
+    },
+    {
+        "label": "Car",
+        "importPath": "stock.core.domain.car",
+        "description": "stock.core.domain.car",
+        "isExtraImport": true,
+        "detail": "stock.core.domain.car",
+        "documentation": {}
+    },
+    {
+        "label": "Car",
+        "importPath": "stock.core.domain.car",
+        "description": "stock.core.domain.car",
+        "isExtraImport": true,
+        "detail": "stock.core.domain.car",
+        "documentation": {}
+    },
+    {
+        "label": "CarType",
+        "importPath": "stock.core.domain.car",
+        "description": "stock.core.domain.car",
+        "isExtraImport": true,
+        "detail": "stock.core.domain.car",
+        "documentation": {}
+    },
+    {
+        "label": "Car",
+        "importPath": "stock.core.domain.car",
+        "description": "stock.core.domain.car",
+        "isExtraImport": true,
+        "detail": "stock.core.domain.car",
+        "documentation": {}
+    },
+    {
+        "label": "Car",
+        "importPath": "stock.core.domain.car",
+        "description": "stock.core.domain.car",
+        "isExtraImport": true,
+        "detail": "stock.core.domain.car",
+        "documentation": {}
+    },
+    {
+        "label": "CarType",
+        "importPath": "stock.core.domain.car",
+        "description": "stock.core.domain.car",
+        "isExtraImport": true,
+        "detail": "stock.core.domain.car",
+        "documentation": {}
+    },
+    {
+        "label": "Car",
+        "importPath": "stock.core.domain.car",
+        "description": "stock.core.domain.car",
+        "isExtraImport": true,
+        "detail": "stock.core.domain.car",
+        "documentation": {}
+    },
+    {
+        "label": "CarType",
+        "importPath": "stock.core.domain.car",
+        "description": "stock.core.domain.car",
+        "isExtraImport": true,
+        "detail": "stock.core.domain.car",
+        "documentation": {}
+    },
+    {
+        "label": "car_list_router",
+        "importPath": "stock.application.controllers",
+        "description": "stock.application.controllers",
+        "isExtraImport": true,
+        "detail": "stock.application.controllers",
+        "documentation": {}
+    },
+    {
+        "label": "car_single_router",
+        "importPath": "stock.application.controllers",
+        "description": "stock.application.controllers",
+        "isExtraImport": true,
+        "detail": "stock.application.controllers",
+        "documentation": {}
+    },
+    {
+        "label": "Car",
+        "importPath": "stock.core.domain",
+        "description": "stock.core.domain",
+        "isExtraImport": true,
+        "detail": "stock.core.domain",
+        "documentation": {}
+    },
+    {
+        "label": "CarRepository",
+        "importPath": "stock.core.domain",
+        "description": "stock.core.domain",
+        "isExtraImport": true,
+        "detail": "stock.core.domain",
+        "documentation": {}
+    },
+    {
+        "label": "Car",
+        "importPath": "stock.core.domain",
+        "description": "stock.core.domain",
+        "isExtraImport": true,
+        "detail": "stock.core.domain",
+        "documentation": {}
+    },
+    {
+        "label": "CarType",
+        "importPath": "stock.core.domain",
+        "description": "stock.core.domain",
+        "isExtraImport": true,
+        "detail": "stock.core.domain",
+        "documentation": {}
+    },
+    {
+        "label": "Car",
+        "importPath": "stock.core.domain",
+        "description": "stock.core.domain",
+        "isExtraImport": true,
+        "detail": "stock.core.domain",
+        "documentation": {}
+    },
+    {
+        "label": "CarRepository",
+        "importPath": "stock.core.domain",
+        "description": "stock.core.domain",
+        "isExtraImport": true,
+        "detail": "stock.core.domain",
+        "documentation": {}
+    },
+    {
+        "label": "CarsResult",
+        "importPath": "stock.core.domain.cars_result",
+        "description": "stock.core.domain.cars_result",
+        "isExtraImport": true,
+        "detail": "stock.core.domain.cars_result",
+        "documentation": {}
+    },
+    {
+        "label": "CarsResult",
+        "importPath": "stock.core.domain.cars_result",
+        "description": "stock.core.domain.cars_result",
+        "isExtraImport": true,
+        "detail": "stock.core.domain.cars_result",
+        "documentation": {}
+    },
+    {
+        "label": "async_transactional",
+        "importPath": "shared_kernel.database.transaction",
+        "description": "shared_kernel.database.transaction",
+        "isExtraImport": true,
+        "detail": "shared_kernel.database.transaction",
+        "documentation": {}
+    },
+    {
+        "label": "async_transactional",
+        "importPath": "shared_kernel.database.transaction",
+        "description": "shared_kernel.database.transaction",
+        "isExtraImport": true,
+        "detail": "shared_kernel.database.transaction",
+        "documentation": {}
+    },
+    {
+        "label": "get_error_handlers",
+        "importPath": "stock.application",
+        "description": "stock.application",
+        "isExtraImport": true,
+        "detail": "stock.application",
+        "documentation": {}
+    },
+    {
+        "label": "get_routers",
+        "importPath": "stock.application",
+        "description": "stock.application",
+        "isExtraImport": true,
+        "detail": "stock.application",
+        "documentation": {}
+    },
+    {
+        "label": "bind",
+        "importPath": "stock.entrypoint.bindings",
+        "description": "stock.entrypoint.bindings",
+        "isExtraImport": true,
+        "detail": "stock.entrypoint.bindings",
+        "documentation": {}
+    },
+    {
+        "label": "bind",
+        "importPath": "stock.entrypoint.bindings",
+        "description": "stock.entrypoint.bindings",
+        "isExtraImport": true,
+        "detail": "stock.entrypoint.bindings",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "stock.entrypoint.config",
+        "description": "stock.entrypoint.config",
+        "isExtraImport": true,
+        "detail": "stock.entrypoint.config",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "stock.entrypoint.config",
+        "description": "stock.entrypoint.config",
+        "isExtraImport": true,
+        "detail": "stock.entrypoint.config",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "stock.entrypoint.config",
+        "description": "stock.entrypoint.config",
+        "isExtraImport": true,
+        "detail": "stock.entrypoint.config",
+        "documentation": {}
+    },
+    {
+        "label": "TestConfig",
+        "importPath": "stock.entrypoint.config",
+        "description": "stock.entrypoint.config",
+        "isExtraImport": true,
+        "detail": "stock.entrypoint.config",
+        "documentation": {}
+    },
+    {
+        "label": "CarRepository",
+        "importPath": "stock.core.domain.car_repository",
+        "description": "stock.core.domain.car_repository",
+        "isExtraImport": true,
+        "detail": "stock.core.domain.car_repository",
+        "documentation": {}
+    },
+    {
+        "label": "PostgreSQLCarRepository",
+        "importPath": "stock.infrastructure.database.repositories.cars",
+        "description": "stock.infrastructure.database.repositories.cars",
+        "isExtraImport": true,
+        "detail": "stock.infrastructure.database.repositories.cars",
+        "documentation": {}
+    },
+    {
+        "label": "get_mapping_callbacks",
+        "importPath": "stock.infrastructure.database.repositories.get_mapping_callbacks",
+        "description": "stock.infrastructure.database.repositories.get_mapping_callbacks",
+        "isExtraImport": true,
+        "detail": "stock.infrastructure.database.repositories.get_mapping_callbacks",
+        "documentation": {}
+    },
+    {
+        "label": "get_mapping_callbacks",
+        "importPath": "stock.infrastructure.database.repositories.get_mapping_callbacks",
+        "description": "stock.infrastructure.database.repositories.get_mapping_callbacks",
+        "isExtraImport": true,
+        "detail": "stock.infrastructure.database.repositories.get_mapping_callbacks",
+        "documentation": {}
+    },
+    {
+        "label": "DatabaseTransactionManager",
+        "importPath": "shared_kernel.database.transaction.manager",
+        "description": "shared_kernel.database.transaction.manager",
+        "isExtraImport": true,
+        "detail": "shared_kernel.database.transaction.manager",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "context",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "sqlalchemy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Boolean",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Table",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "postgresql",
+        "importPath": "sqlalchemy.dialects",
+        "description": "sqlalchemy.dialects",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.dialects",
+        "documentation": {}
+    },
+    {
+        "label": "fileConfig",
+        "importPath": "logging.config",
+        "description": "logging.config",
+        "isExtraImport": true,
+        "detail": "logging.config",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "sqlalchemy.dialects.postgresql",
+        "description": "sqlalchemy.dialects.postgresql",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.dialects.postgresql",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemyMixin",
+        "importPath": "shared_kernel.database.sqlalchemy_mixin",
+        "description": "shared_kernel.database.sqlalchemy_mixin",
+        "isExtraImport": true,
+        "detail": "shared_kernel.database.sqlalchemy_mixin",
+        "documentation": {}
+    },
+    {
+        "label": "bind_cars_table_to_cars_model",
+        "importPath": "stock.infrastructure.database.repositories.cars.sql_car_mapping",
+        "description": "stock.infrastructure.database.repositories.cars.sql_car_mapping",
+        "isExtraImport": true,
+        "detail": "stock.infrastructure.database.repositories.cars.sql_car_mapping",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
+        "documentation": {}
+    },
+    {
+        "label": "PostgreSQLCarRepository",
+        "importPath": "stock.infrastructure.database.repositories.cars.sql_car_repository",
+        "description": "stock.infrastructure.database.repositories.cars.sql_car_repository",
+        "isExtraImport": true,
+        "detail": "stock.infrastructure.database.repositories.cars.sql_car_repository",
+        "documentation": {}
+    },
+    {
+        "label": "DatabaseJanitor",
+        "importPath": "pytest_postgresql.janitor",
+        "description": "pytest_postgresql.janitor",
+        "isExtraImport": true,
+        "detail": "pytest_postgresql.janitor",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "importPath": "stock.entrypoint",
+        "description": "stock.entrypoint",
+        "isExtraImport": true,
+        "detail": "stock.entrypoint",
+        "documentation": {}
+    },
+    {
+        "label": "get_api_router",
+        "kind": 2,
+        "importPath": "src.catalog.application.controllers.api_router",
+        "description": "src.catalog.application.controllers.api_router",
+        "peekOfCode": "def get_api_router(**kwargs) -> InferringRouter:\n    return InferringRouter(**kwargs)",
+        "detail": "src.catalog.application.controllers.api_router",
+        "documentation": {}
+    },
+    {
+        "label": "CardListResource",
+        "kind": 6,
+        "importPath": "src.catalog.application.controllers.card_list",
+        "description": "src.catalog.application.controllers.card_list",
+        "peekOfCode": "class CardListResource:\n    filters_request_schema = FiltersRequestSchema()\n    @router.get(\n        \"/api/products/cards\",\n        response_model=CardsPaginatedResponse,\n        response_model_exclude_none=True,\n        response_model_by_alias=True,\n        response_description=\"Successful response\",\n    )\n    async def get_cards_by_filters(",
+        "detail": "src.catalog.application.controllers.card_list",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "src.catalog.application.controllers.card_list",
+        "description": "src.catalog.application.controllers.card_list",
+        "peekOfCode": "router = get_api_router()\nmock_data = CardsPaginatedResponse.construct(\n    items=[\n        CardResponse.construct(\n            id=\"382357c8-8547-41d1-9171-d23078dbfb60\",\n            label=\"Iphone 13\",\n            image=\"https://img.com/random\",\n            price=140000,\n            rating=4.5,\n            reviews_count=49,",
+        "detail": "src.catalog.application.controllers.card_list",
+        "documentation": {}
+    },
+    {
+        "label": "mock_data",
+        "kind": 5,
+        "importPath": "src.catalog.application.controllers.card_list",
+        "description": "src.catalog.application.controllers.card_list",
+        "peekOfCode": "mock_data = CardsPaginatedResponse.construct(\n    items=[\n        CardResponse.construct(\n            id=\"382357c8-8547-41d1-9171-d23078dbfb60\",\n            label=\"Iphone 13\",\n            image=\"https://img.com/random\",\n            price=140000,\n            rating=4.5,\n            reviews_count=49,\n            path=\"/stock/electronics/382357c8-8547-41d1-9171-d23078dbfb60\",",
+        "detail": "src.catalog.application.controllers.card_list",
+        "documentation": {}
+    },
+    {
+        "label": "CardResponse",
+        "kind": 6,
+        "importPath": "src.catalog.application.presentation.card_list_response",
+        "description": "src.catalog.application.presentation.card_list_response",
+        "peekOfCode": "class CardResponse(BaseModel):\n    id: UUID4 = Field(alias=\"id\", example=\"382357c8-8547-41d1-9171-d23078dbfb60\")\n    label: str = Field(alias=\"label\", example=\"Iphone 13\")\n    image: HttpUrl = Field(alias=\"image\", example=\"https://img.com/random\")\n    price: int = Field(alias=\"price\", example=140000)\n    rating: float = Field(alias=\"rating\", example=4.5)\n    reviews_count: int = Field(alias=\"reviewsCount\", example=49)\n    path: str = Field(alias=\"path\", example=\"/stock/electronics/382357c8-8547-41d1-9171-d23078dbfb60\")\nclass CardsPaginatedResponse(BaseModel):\n    items: list[CardResponse] = Field(alias=\"items\")",
+        "detail": "src.catalog.application.presentation.card_list_response",
+        "documentation": {}
+    },
+    {
+        "label": "CardsPaginatedResponse",
+        "kind": 6,
+        "importPath": "src.catalog.application.presentation.card_list_response",
+        "description": "src.catalog.application.presentation.card_list_response",
+        "peekOfCode": "class CardsPaginatedResponse(BaseModel):\n    items: list[CardResponse] = Field(alias=\"items\")\n    links: HateoasLinks = Field(alias=\"_links\")",
+        "detail": "src.catalog.application.presentation.card_list_response",
+        "documentation": {}
+    },
+    {
+        "label": "NotFoundError",
+        "kind": 6,
+        "importPath": "src.catalog.application.presentation.errors",
+        "description": "src.catalog.application.presentation.errors",
+        "peekOfCode": "class NotFoundError(BaseModel):\n    message: str",
+        "detail": "src.catalog.application.presentation.errors",
+        "documentation": {}
+    },
+    {
+        "label": "Link",
+        "kind": 6,
+        "importPath": "src.catalog.application.presentation.hateoas",
+        "description": "src.catalog.application.presentation.hateoas",
+        "peekOfCode": "class Link(BaseModel):\n    href: HttpUrl = Field(\n        alias=\"href\",\n        example=\"https://vtb-stock.com/catalog/api/cards?sort=cheaper&categories=electronics,smartphones&filters=minPrice=1000,maxPrice=10000&page=1&size=10\",\n    )\n    path: str = Field(\n        alias=\"path\",\n        example=\"/catalog/api/cards?sort=cheaper&categories=electronics,smartphones&filters=minPrice=1000,maxPrice=10000&page=1&size=10\",\n    )\nclass HateoasLinks(BaseModel):",
+        "detail": "src.catalog.application.presentation.hateoas",
+        "documentation": {}
+    },
+    {
+        "label": "HateoasLinks",
+        "kind": 6,
+        "importPath": "src.catalog.application.presentation.hateoas",
+        "description": "src.catalog.application.presentation.hateoas",
+        "peekOfCode": "class HateoasLinks(BaseModel):\n    prev: Optional[Link] = Field(alias=\"prev\")\n    self_: Link = Field(alias=\"self\")\n    next_: Optional[Link] = Field(alias=\"next\")",
+        "detail": "src.catalog.application.presentation.hateoas",
+        "documentation": {}
+    },
+    {
+        "label": "SelectedInterval",
+        "kind": 6,
+        "importPath": "src.catalog.application.request_mapper.filters_request",
+        "description": "src.catalog.application.request_mapper.filters_request",
+        "peekOfCode": "class SelectedInterval(BaseModel):\n    gte: float\n    lte: float\nclass SelectedParameter(BaseModel):\n    id: str\n    type: ParameterType\n    selected_values: list[str]\n    selected_interval: Optional[SelectedInterval]\nclass FiltersRequest(BaseModel):\n    categories: list[str] = Field(default_factory=list)",
+        "detail": "src.catalog.application.request_mapper.filters_request",
+        "documentation": {}
+    },
+    {
+        "label": "SelectedParameter",
+        "kind": 6,
+        "importPath": "src.catalog.application.request_mapper.filters_request",
+        "description": "src.catalog.application.request_mapper.filters_request",
+        "peekOfCode": "class SelectedParameter(BaseModel):\n    id: str\n    type: ParameterType\n    selected_values: list[str]\n    selected_interval: Optional[SelectedInterval]\nclass FiltersRequest(BaseModel):\n    categories: list[str] = Field(default_factory=list)\n    sort: list[str] = Field(default_factory=list)\n    parameters: list[SelectedParameter] = Field(default_factory=list)\n    search: Optional[str] = Field(default=None)",
+        "detail": "src.catalog.application.request_mapper.filters_request",
+        "documentation": {}
+    },
+    {
+        "label": "FiltersRequest",
+        "kind": 6,
+        "importPath": "src.catalog.application.request_mapper.filters_request",
+        "description": "src.catalog.application.request_mapper.filters_request",
+        "peekOfCode": "class FiltersRequest(BaseModel):\n    categories: list[str] = Field(default_factory=list)\n    sort: list[str] = Field(default_factory=list)\n    parameters: list[SelectedParameter] = Field(default_factory=list)\n    search: Optional[str] = Field(default=None)\n    page: int = Field(default=1)\n    size: int = Field(default=10)\nclass SelectedIntervalRequestSchema(RequestSchema):\n    __model__ = SelectedInterval\n    gte = fields.Float()",
+        "detail": "src.catalog.application.request_mapper.filters_request",
+        "documentation": {}
+    },
+    {
+        "label": "SelectedIntervalRequestSchema",
+        "kind": 6,
+        "importPath": "src.catalog.application.request_mapper.filters_request",
+        "description": "src.catalog.application.request_mapper.filters_request",
+        "peekOfCode": "class SelectedIntervalRequestSchema(RequestSchema):\n    __model__ = SelectedInterval\n    gte = fields.Float()\n    lte = fields.Float()\nclass SelectedParameterRequestSchema(RequestSchema):\n    __model__ = SelectedParameter.construct\n    id = fields.String()\n    type = EnumField(ParameterType, by_value=True)\n    selected_values = fields.List(fields.String())\n    selected_interval = fields.Nested(SelectedIntervalRequestSchema, missing=None, allow_none=True)",
+        "detail": "src.catalog.application.request_mapper.filters_request",
+        "documentation": {}
+    },
+    {
+        "label": "SelectedParameterRequestSchema",
+        "kind": 6,
+        "importPath": "src.catalog.application.request_mapper.filters_request",
+        "description": "src.catalog.application.request_mapper.filters_request",
+        "peekOfCode": "class SelectedParameterRequestSchema(RequestSchema):\n    __model__ = SelectedParameter.construct\n    id = fields.String()\n    type = EnumField(ParameterType, by_value=True)\n    selected_values = fields.List(fields.String())\n    selected_interval = fields.Nested(SelectedIntervalRequestSchema, missing=None, allow_none=True)\nclass FiltersRequestSchema(RequestSchema):\n    __model__ = FiltersRequest.construct\n    categories = fields.List(fields.String())\n    sort = fields.List(fields.String())",
+        "detail": "src.catalog.application.request_mapper.filters_request",
+        "documentation": {}
+    },
+    {
+        "label": "FiltersRequestSchema",
+        "kind": 6,
+        "importPath": "src.catalog.application.request_mapper.filters_request",
+        "description": "src.catalog.application.request_mapper.filters_request",
+        "peekOfCode": "class FiltersRequestSchema(RequestSchema):\n    __model__ = FiltersRequest.construct\n    categories = fields.List(fields.String())\n    sort = fields.List(fields.String())\n    parameters = fields.List(fields.Nested(SelectedParameterRequestSchema))\n    search = fields.String(allow_none=True, missing=None)\n    page = fields.Integer()\n    size = fields.Integer()\n    @pre_load\n    def prepare_request_data(self, data: dict[str, Any], **kwargs) -> dict[str, Any]:",
+        "detail": "src.catalog.application.request_mapper.filters_request",
+        "documentation": {}
+    },
+    {
+        "label": "get_error_handlers",
+        "kind": 2,
+        "importPath": "src.catalog.application.error_handlers",
+        "description": "src.catalog.application.error_handlers",
+        "peekOfCode": "def get_error_handlers() -> list[Callable[[Request, Exception], Coroutine[Any, Any, JSONResponse]]]:\n    return [_internal_server_error_handler]",
+        "detail": "src.catalog.application.error_handlers",
+        "documentation": {}
+    },
+    {
+        "label": "get_routers",
+        "kind": 2,
+        "importPath": "src.catalog.application.list_of_routers",
+        "description": "src.catalog.application.list_of_routers",
+        "peekOfCode": "def get_routers() -> list[InferringRouter]:\n    return [\n        card_list_router,\n    ]",
+        "detail": "src.catalog.application.list_of_routers",
+        "documentation": {}
+    },
+    {
+        "label": "ParameterType",
+        "kind": 6,
+        "importPath": "src.catalog.core.domain.available_parameter",
+        "description": "src.catalog.core.domain.available_parameter",
+        "peekOfCode": "class ParameterType(Enum):\n    KEYWORD = \"string\"\n    NUMBER = \"number\"\n@dataclass(frozen=True)\nclass ParameterStats:\n    minimum: float\n    maximum: float\n    average: float\n    total_sum: float\n@dataclass(frozen=True)",
+        "detail": "src.catalog.core.domain.available_parameter",
+        "documentation": {}
+    },
+    {
+        "label": "ParameterStats",
+        "kind": 6,
+        "importPath": "src.catalog.core.domain.available_parameter",
+        "description": "src.catalog.core.domain.available_parameter",
+        "peekOfCode": "class ParameterStats:\n    minimum: float\n    maximum: float\n    average: float\n    total_sum: float\n@dataclass(frozen=True)\nclass AvailableValue:\n    id: str\n    label: str\n    doc_count: str",
+        "detail": "src.catalog.core.domain.available_parameter",
+        "documentation": {}
+    },
+    {
+        "label": "AvailableValue",
+        "kind": 6,
+        "importPath": "src.catalog.core.domain.available_parameter",
+        "description": "src.catalog.core.domain.available_parameter",
+        "peekOfCode": "class AvailableValue:\n    id: str\n    label: str\n    doc_count: str\n@dataclass(frozen=True)\nclass AvailableParameter:\n    id: str\n    label: str\n    type: ParameterType\n    stats: Optional[ParameterStats]",
+        "detail": "src.catalog.core.domain.available_parameter",
+        "documentation": {}
+    },
+    {
+        "label": "AvailableParameter",
+        "kind": 6,
+        "importPath": "src.catalog.core.domain.available_parameter",
+        "description": "src.catalog.core.domain.available_parameter",
+        "peekOfCode": "class AvailableParameter:\n    id: str\n    label: str\n    type: ParameterType\n    stats: Optional[ParameterStats]\n    available_values: list[AvailableValue]",
+        "detail": "src.catalog.core.domain.available_parameter",
+        "documentation": {}
+    },
+    {
+        "label": "Card",
+        "kind": 6,
+        "importPath": "src.catalog.core.domain.card",
+        "description": "src.catalog.core.domain.card",
+        "peekOfCode": "class Card:\n    id: UUID\n    image: str\n    price: int\n    label: str\n    rating: float\n    reviews_count: int\n    path: str",
+        "detail": "src.catalog.core.domain.card",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "kind": 6,
+        "importPath": "src.catalog.core.domain.category",
+        "description": "src.catalog.core.domain.category",
+        "peekOfCode": "class Category:\n    id: str\n    label: str\n    image: str\n    path: str\n    sub_categories: list[\"Category\"]",
+        "detail": "src.catalog.core.domain.category",
+        "documentation": {}
+    },
+    {
+        "label": "FiltersResult",
+        "kind": 6,
+        "importPath": "src.catalog.core.domain.filters_result",
+        "description": "src.catalog.core.domain.filters_result",
+        "peekOfCode": "class FiltersResult:\n    parameters: list[AvailableParameter]\n    categories: list[Category]\n    sort: list[SortKey]",
+        "detail": "src.catalog.core.domain.filters_result",
+        "documentation": {}
+    },
+    {
+        "label": "SortKey",
+        "kind": 6,
+        "importPath": "src.catalog.core.domain.sort_key",
+        "description": "src.catalog.core.domain.sort_key",
+        "peekOfCode": "class SortKey:\n    id: str\n    label: str",
+        "detail": "src.catalog.core.domain.sort_key",
+        "documentation": {}
+    },
+    {
+        "label": "CardListService",
+        "kind": 6,
+        "importPath": "src.catalog.core.services.card_list_service",
+        "description": "src.catalog.core.services.card_list_service",
+        "peekOfCode": "class CardListService:\n    @inject.autoparams()\n    def __init__(self, es_cards_query_service: ESCardsQueryService):\n        self._es_cards_query_service = es_cards_query_service\n    async def match_cards(self, filters_request: FiltersRequest) -> list[Card]:\n        cards = await self._es_cards_query_service.search_cards(filters_request)\n        return cards",
+        "detail": "src.catalog.core.services.card_list_service",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "kind": 2,
+        "importPath": "src.catalog.entrypoint.app_factory",
+        "description": "src.catalog.entrypoint.app_factory",
+        "peekOfCode": "def create_app(config_cls: Type[Config] = Config) -> FastAPI:\n    config_obj = config_cls()\n    app = FastAPI()\n    bind(config_obj)\n    _build_http_api(app)\n    _register_server_error_handlers(app)\n    return app",
+        "detail": "src.catalog.entrypoint.app_factory",
+        "documentation": {}
+    },
+    {
+        "label": "bind",
+        "kind": 2,
+        "importPath": "src.catalog.entrypoint.bindings",
+        "description": "src.catalog.entrypoint.bindings",
+        "peekOfCode": "def bind(config: Config):\n    inject.configure_once(partial(_configure, config=config))\n    if not config.is_debug:\n        # Wait for injector\n        sleep(10)",
+        "detail": "src.catalog.entrypoint.bindings",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "kind": 6,
+        "importPath": "src.catalog.entrypoint.config",
+        "description": "src.catalog.entrypoint.config",
+        "peekOfCode": "class Config:\n    @property\n    def is_debug(self) -> bool:\n        return False\n    def to_dict(self) -> Dict[str, Any]:\n        return {\n            attr: getattr(self, attr) for attr in dir(self) if isinstance(getattr(type(self), attr, None), property)\n        }",
+        "detail": "src.catalog.entrypoint.config",
+        "documentation": {}
+    },
+    {
+        "label": "ESCardsQueryService",
+        "kind": 6,
+        "importPath": "src.catalog.infrastructure.gateways.es_cards_query_service",
+        "description": "src.catalog.infrastructure.gateways.es_cards_query_service",
+        "peekOfCode": "class ESCardsQueryService:\n    @inject.autoparams()\n    def __init__(self, es_client: AsyncElasticsearch, index_name: str):\n        self._es_client = es_client\n        self._index_name = index_name\n    async def search_cards(self, filters_request: FiltersRequest) -> list[Card]:\n        query = self._make_base_query(filters_request)\n        sort_query = self._make_sort_query(filters_request.sort)\n        from_ = (filters_request.page - 1) * filters_request.size\n        search_result = await self._search_by_query(query, sort_query, from_=from_, size=filters_request.size)",
+        "detail": "src.catalog.infrastructure.gateways.es_cards_query_service",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "src.catalog.asgi",
+        "description": "src.catalog.asgi",
+        "peekOfCode": "app = create_app()",
+        "detail": "src.catalog.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "get_api_router",
+        "kind": 2,
+        "importPath": "src.gateway.application.controllers.api_router",
+        "description": "src.gateway.application.controllers.api_router",
+        "peekOfCode": "def get_api_router(**kwargs) -> InferringRouter:\n    return InferringRouter(**kwargs)",
+        "detail": "src.gateway.application.controllers.api_router",
+        "documentation": {}
+    },
+    {
+        "label": "CarsProxyRouter",
+        "kind": 6,
+        "importPath": "src.gateway.application.controllers.cars_proxy",
+        "description": "src.gateway.application.controllers.cars_proxy",
+        "peekOfCode": "class CarsProxyRouter:\n    car_list_response_schema = CarListResponsePresentationSchema()\n    car_response_schema = CarResponsePresentationSchema()\n    @router.get(\n        \"/api/v1/cars\",\n        response_model=CarListResponse,\n        response_model_exclude_none=True,\n        response_model_by_alias=True,\n    )\n    async def get_list_of_cars(",
+        "detail": "src.gateway.application.controllers.cars_proxy",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "src.gateway.application.controllers.cars_proxy",
+        "description": "src.gateway.application.controllers.cars_proxy",
+        "peekOfCode": "router = get_api_router()\n@cbv(router)\nclass CarsProxyRouter:\n    car_list_response_schema = CarListResponsePresentationSchema()\n    car_response_schema = CarResponsePresentationSchema()\n    @router.get(\n        \"/api/v1/cars\",\n        response_model=CarListResponse,\n        response_model_exclude_none=True,\n        response_model_by_alias=True,",
+        "detail": "src.gateway.application.controllers.cars_proxy",
+        "documentation": {}
+    },
+    {
+        "label": "RentalProxyResource",
+        "kind": 6,
+        "importPath": "src.gateway.application.controllers.rental_proxy",
+        "description": "src.gateway.application.controllers.rental_proxy",
+        "peekOfCode": "class RentalProxyResource:\n    rental_response_schema = RentalResponsePresentationSchema()\n    payed_rental_schema = PayedRentalResponsePresnetationSchema()\n    @router.get(\n        \"/api/v1/rental\",\n        response_model=list[RentalResponse],\n        response_model_by_alias=True,\n        response_model_exclude_none=True,\n    )\n    async def get_all_rentals_for_user(self, user_id: str = Header(..., alias=\"X-User-Name\")) -> RentalResponse:  # type: ignore",
+        "detail": "src.gateway.application.controllers.rental_proxy",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "src.gateway.application.controllers.rental_proxy",
+        "description": "src.gateway.application.controllers.rental_proxy",
+        "peekOfCode": "router = get_api_router()\n@cbv(router)\nclass RentalProxyResource:\n    rental_response_schema = RentalResponsePresentationSchema()\n    payed_rental_schema = PayedRentalResponsePresnetationSchema()\n    @router.get(\n        \"/api/v1/rental\",\n        response_model=list[RentalResponse],\n        response_model_by_alias=True,\n        response_model_exclude_none=True,",
+        "detail": "src.gateway.application.controllers.rental_proxy",
+        "documentation": {}
+    },
+    {
+        "label": "CarResponse",
+        "kind": 6,
+        "importPath": "src.gateway.application.presentation.car_list_response",
+        "description": "src.gateway.application.presentation.car_list_response",
+        "peekOfCode": "class CarResponse(BaseModel):\n    car_uid: UUID4 = Field(alias=\"carUid\")\n    available: bool = Field(alias=\"available\")\n    brand: str = Field(alias=\"brand\")\n    model: str = Field(alias=\"model\")\n    registration_number: str = Field(alias=\"registrationNumber\")\n    power: Optional[int] = Field(alias=\"power\")\n    type: CarType = Field(alias=\"type\")\n    price: int = Field(alias=\"price\")\nclass CarListResponse(BaseModel):",
+        "detail": "src.gateway.application.presentation.car_list_response",
+        "documentation": {}
+    },
+    {
+        "label": "CarListResponse",
+        "kind": 6,
+        "importPath": "src.gateway.application.presentation.car_list_response",
+        "description": "src.gateway.application.presentation.car_list_response",
+        "peekOfCode": "class CarListResponse(BaseModel):\n    page: int = Field(alias=\"page\")\n    page_size: int = Field(alias=\"pageSize\")\n    total_elements: int = Field(alias=\"totalElements\")\n    items: list[CarResponse] = Field(alias=\"items\")\nclass CarResponsePresentationSchema(PresentationSchema):\n    __model__ = CarResponse.construct\n    car_uid = fields.UUID(attribute=\"identifier\")\n    brand = fields.String()\n    model = fields.String()",
+        "detail": "src.gateway.application.presentation.car_list_response",
+        "documentation": {}
+    },
+    {
+        "label": "CarResponsePresentationSchema",
+        "kind": 6,
+        "importPath": "src.gateway.application.presentation.car_list_response",
+        "description": "src.gateway.application.presentation.car_list_response",
+        "peekOfCode": "class CarResponsePresentationSchema(PresentationSchema):\n    __model__ = CarResponse.construct\n    car_uid = fields.UUID(attribute=\"identifier\")\n    brand = fields.String()\n    model = fields.String()\n    registration_number = fields.String()\n    power = fields.String()\n    type = EnumField(CarType, by_value=True)\n    price = fields.Integer()\n    available = fields.Boolean()",
+        "detail": "src.gateway.application.presentation.car_list_response",
+        "documentation": {}
+    },
+    {
+        "label": "CarListResponsePresentationSchema",
+        "kind": 6,
+        "importPath": "src.gateway.application.presentation.car_list_response",
+        "description": "src.gateway.application.presentation.car_list_response",
+        "peekOfCode": "class CarListResponsePresentationSchema(PresentationSchema):\n    __model__ = CarListResponse.construct\n    page = fields.Integer()\n    page_size = fields.Integer()\n    total_elements = fields.Integer(attribute=\"total_count\")\n    items = fields.List(fields.Nested(CarResponsePresentationSchema), attribute=\"result\")",
+        "detail": "src.gateway.application.presentation.car_list_response",
+        "documentation": {}
+    },
+    {
+        "label": "NotFoundError",
+        "kind": 6,
+        "importPath": "src.gateway.application.presentation.errors",
+        "description": "src.gateway.application.presentation.errors",
+        "peekOfCode": "class NotFoundError(BaseModel):\n    message: str",
+        "detail": "src.gateway.application.presentation.errors",
+        "documentation": {}
+    },
+    {
+        "label": "CarRentalProjectionResponse",
+        "kind": 6,
+        "importPath": "src.gateway.application.presentation.rental_response",
+        "description": "src.gateway.application.presentation.rental_response",
+        "peekOfCode": "class CarRentalProjectionResponse(BaseModel):\n    car_uid: UUID4 = Field(alias=\"carUid\")\n    brand: str = Field(alias=\"brand\")\n    model: str = Field(alias=\"model\")\n    registration_number: str = Field(alias=\"registrationNumber\")\nclass PaymentResponse(BaseModel):\n    payment_uid: UUID4 = Field(alias=\"paymentUid\")\n    status: PaymentStatus = Field(alias=\"status\")\n    price: int = Field(alias=\"price\")\nclass RentalResponse(BaseModel):",
+        "detail": "src.gateway.application.presentation.rental_response",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentResponse",
+        "kind": 6,
+        "importPath": "src.gateway.application.presentation.rental_response",
+        "description": "src.gateway.application.presentation.rental_response",
+        "peekOfCode": "class PaymentResponse(BaseModel):\n    payment_uid: UUID4 = Field(alias=\"paymentUid\")\n    status: PaymentStatus = Field(alias=\"status\")\n    price: int = Field(alias=\"price\")\nclass RentalResponse(BaseModel):\n    rental_uid: UUID4 = Field(alias=\"rentalUid\")\n    status: RentalStatus = Field(alias=\"status\")\n    date_from: datetime.date = Field(alias=\"dateFrom\")\n    date_to: datetime.date = Field(alias=\"dateTo\")\n    car: CarRentalProjectionResponse = Field(alias=\"car\")",
+        "detail": "src.gateway.application.presentation.rental_response",
+        "documentation": {}
+    },
+    {
+        "label": "RentalResponse",
+        "kind": 6,
+        "importPath": "src.gateway.application.presentation.rental_response",
+        "description": "src.gateway.application.presentation.rental_response",
+        "peekOfCode": "class RentalResponse(BaseModel):\n    rental_uid: UUID4 = Field(alias=\"rentalUid\")\n    status: RentalStatus = Field(alias=\"status\")\n    date_from: datetime.date = Field(alias=\"dateFrom\")\n    date_to: datetime.date = Field(alias=\"dateTo\")\n    car: CarRentalProjectionResponse = Field(alias=\"car\")\n    payment: PaymentResponse = Field(alias=\"payment\")\nclass PayedRentalResponse(BaseModel):\n    rental_uid: UUID4 = Field(alias=\"rentalUid\")\n    status: RentalStatus = Field(alias=\"status\")",
+        "detail": "src.gateway.application.presentation.rental_response",
+        "documentation": {}
+    },
+    {
+        "label": "PayedRentalResponse",
+        "kind": 6,
+        "importPath": "src.gateway.application.presentation.rental_response",
+        "description": "src.gateway.application.presentation.rental_response",
+        "peekOfCode": "class PayedRentalResponse(BaseModel):\n    rental_uid: UUID4 = Field(alias=\"rentalUid\")\n    status: RentalStatus = Field(alias=\"status\")\n    date_from: datetime.date = Field(alias=\"dateFrom\")\n    date_to: datetime.date = Field(alias=\"dateTo\")\n    car_uid: UUID4 = Field(alias=\"carUid\")\n    payment: PaymentResponse = Field(alias=\"payment\")\nclass CarResponsePresentationSchema(PresentationSchema):\n    __model__ = CarRentalProjectionResponse.construct\n    car_uid = fields.UUID(attribute=\"identifier\")",
+        "detail": "src.gateway.application.presentation.rental_response",
+        "documentation": {}
+    },
+    {
+        "label": "CarResponsePresentationSchema",
+        "kind": 6,
+        "importPath": "src.gateway.application.presentation.rental_response",
+        "description": "src.gateway.application.presentation.rental_response",
+        "peekOfCode": "class CarResponsePresentationSchema(PresentationSchema):\n    __model__ = CarRentalProjectionResponse.construct\n    car_uid = fields.UUID(attribute=\"identifier\")\n    brand = fields.String()\n    model = fields.String()\n    registration_number = fields.String()\nclass PaymentResponsePresentationSchema(PresentationSchema):\n    __model__ = PaymentResponse.construct\n    payment_uid = fields.UUID(attribute=\"identifier\")\n    status = EnumField(PaymentStatus, by_value=True)",
+        "detail": "src.gateway.application.presentation.rental_response",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentResponsePresentationSchema",
+        "kind": 6,
+        "importPath": "src.gateway.application.presentation.rental_response",
+        "description": "src.gateway.application.presentation.rental_response",
+        "peekOfCode": "class PaymentResponsePresentationSchema(PresentationSchema):\n    __model__ = PaymentResponse.construct\n    payment_uid = fields.UUID(attribute=\"identifier\")\n    status = EnumField(PaymentStatus, by_value=True)\n    price = fields.Integer()\nclass RentalResponsePresentationSchema(PresentationSchema):\n    __model__ = RentalResponse.construct\n    rental_uid = fields.UUID(attribute=\"identifier\")\n    status = EnumField(RentalStatus, by_value=True)\n    date_from = fields.Date()",
+        "detail": "src.gateway.application.presentation.rental_response",
+        "documentation": {}
+    },
+    {
+        "label": "RentalResponsePresentationSchema",
+        "kind": 6,
+        "importPath": "src.gateway.application.presentation.rental_response",
+        "description": "src.gateway.application.presentation.rental_response",
+        "peekOfCode": "class RentalResponsePresentationSchema(PresentationSchema):\n    __model__ = RentalResponse.construct\n    rental_uid = fields.UUID(attribute=\"identifier\")\n    status = EnumField(RentalStatus, by_value=True)\n    date_from = fields.Date()\n    date_to = fields.Date()\n    car = fields.Nested(CarResponsePresentationSchema)\n    payment = fields.Nested(PaymentResponsePresentationSchema)\nclass PayedRentalResponsePresnetationSchema(PresentationSchema):\n    __model__ = PayedRentalResponse.construct",
+        "detail": "src.gateway.application.presentation.rental_response",
+        "documentation": {}
+    },
+    {
+        "label": "PayedRentalResponsePresnetationSchema",
+        "kind": 6,
+        "importPath": "src.gateway.application.presentation.rental_response",
+        "description": "src.gateway.application.presentation.rental_response",
+        "peekOfCode": "class PayedRentalResponsePresnetationSchema(PresentationSchema):\n    __model__ = PayedRentalResponse.construct\n    rental_uid = fields.UUID(attribute=\"identifier\")\n    status = EnumField(RentalStatus, by_value=True)\n    date_from = fields.Date()\n    date_to = fields.Date()\n    car_uid = fields.UUID()\n    payment = fields.Nested(PaymentResponsePresentationSchema)",
+        "detail": "src.gateway.application.presentation.rental_response",
+        "documentation": {}
+    },
+    {
+        "label": "CreateRentalRequest",
+        "kind": 6,
+        "importPath": "src.gateway.application.request_mapper.create_rental_request",
+        "description": "src.gateway.application.request_mapper.create_rental_request",
+        "peekOfCode": "class CreateRentalRequest(BaseModel):\n    car_uid: UUID4 = Field(alias=\"carUid\")\n    date_from: datetime.date = Field(alias=\"dateFrom\")\n    date_to: datetime.date = Field(alias=\"dateTo\")",
+        "detail": "src.gateway.application.request_mapper.create_rental_request",
+        "documentation": {}
+    },
+    {
+        "label": "get_error_handlers",
+        "kind": 2,
+        "importPath": "src.gateway.application.error_handlers",
+        "description": "src.gateway.application.error_handlers",
+        "peekOfCode": "def get_error_handlers() -> list[Callable[[Request, Exception], Coroutine[Any, Any, JSONResponse]]]:\n    return [_proxy_network_errors_handler]",
+        "detail": "src.gateway.application.error_handlers",
+        "documentation": {}
+    },
+    {
+        "label": "get_routers",
+        "kind": 2,
+        "importPath": "src.gateway.application.list_of_routers",
+        "description": "src.gateway.application.list_of_routers",
+        "peekOfCode": "def get_routers() -> list[InferringRouter]:\n    return [\n        rental_proxy_router,\n        cars_proxy_router,\n    ]",
+        "detail": "src.gateway.application.list_of_routers",
+        "documentation": {}
+    },
+    {
+        "label": "CarType",
+        "kind": 6,
+        "importPath": "src.gateway.core.domain.car",
+        "description": "src.gateway.core.domain.car",
+        "peekOfCode": "class CarType(str, Enum):\n    SEDAN = \"SEDAN\"\n    SUV = \"SUV\"\n    MINIVAN = \"MINIVAN\"\n    ROADSTER = \"ROADSTER\"\n@dataclass\nclass Car:\n    identifier: UUID\n    brand: str\n    model: str",
+        "detail": "src.gateway.core.domain.car",
+        "documentation": {}
+    },
+    {
+        "label": "Car",
+        "kind": 6,
+        "importPath": "src.gateway.core.domain.car",
+        "description": "src.gateway.core.domain.car",
+        "peekOfCode": "class Car:\n    identifier: UUID\n    brand: str\n    model: str\n    registration_number: str\n    power: Optional[int]\n    type: CarType\n    price: int\n    available: bool\n@dataclass(frozen=True)",
+        "detail": "src.gateway.core.domain.car",
+        "documentation": {}
+    },
+    {
+        "label": "CarsResult",
+        "kind": 6,
+        "importPath": "src.gateway.core.domain.car",
+        "description": "src.gateway.core.domain.car",
+        "peekOfCode": "class CarsResult:\n    total_count: int\n    result: Iterable[Car]\n    page_size: int\n    page: int",
+        "detail": "src.gateway.core.domain.car",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentStatus",
+        "kind": 6,
+        "importPath": "src.gateway.core.domain.payment",
+        "description": "src.gateway.core.domain.payment",
+        "peekOfCode": "class PaymentStatus(Enum):\n    PAID = \"PAID\"\n    CANCELED = \"REVERSED\"\n@dataclass\nclass Payment:\n    identifier: UUID\n    price: int\n    status: PaymentStatus",
+        "detail": "src.gateway.core.domain.payment",
+        "documentation": {}
+    },
+    {
+        "label": "Payment",
+        "kind": 6,
+        "importPath": "src.gateway.core.domain.payment",
+        "description": "src.gateway.core.domain.payment",
+        "peekOfCode": "class Payment:\n    identifier: UUID\n    price: int\n    status: PaymentStatus",
+        "detail": "src.gateway.core.domain.payment",
+        "documentation": {}
+    },
+    {
+        "label": "RentalStatus",
+        "kind": 6,
+        "importPath": "src.gateway.core.domain.rental",
+        "description": "src.gateway.core.domain.rental",
+        "peekOfCode": "class RentalStatus(Enum):\n    NEW = \"NEW\"\n    IN_PROGRESS = \"IN_PROGRESS\"\n    FINISHED = \"FINISHED\"\n    CANCELED = \"CANCELED\"\n@dataclass\nclass Rental:\n    identifier: UUID\n    status: RentalStatus\n    date_from: datetime.date",
+        "detail": "src.gateway.core.domain.rental",
+        "documentation": {}
+    },
+    {
+        "label": "Rental",
+        "kind": 6,
+        "importPath": "src.gateway.core.domain.rental",
+        "description": "src.gateway.core.domain.rental",
+        "peekOfCode": "class Rental:\n    identifier: UUID\n    status: RentalStatus\n    date_from: datetime.date\n    date_to: datetime.date\n    car: Car\n    payment: Payment",
+        "detail": "src.gateway.core.domain.rental",
+        "documentation": {}
+    },
+    {
+        "label": "CarProxyService",
+        "kind": 6,
+        "importPath": "src.gateway.core.services.car_proxy_service",
+        "description": "src.gateway.core.services.car_proxy_service",
+        "peekOfCode": "class CarProxyService:\n    @inject.autoparams()\n    def __init__(self, cars_adapter: CarsAdapter):\n        self._cars = cars_adapter\n    async def list_of_cars(self, page: int, size: int, show_all: bool) -> CarsResult:\n        return await self._cars.list_of_cars(page, size, show_all)",
+        "detail": "src.gateway.core.services.car_proxy_service",
+        "documentation": {}
+    },
+    {
+        "label": "RentalProxyService",
+        "kind": 6,
+        "importPath": "src.gateway.core.services.rental_proxy_service",
+        "description": "src.gateway.core.services.rental_proxy_service",
+        "peekOfCode": "class RentalProxyService:\n    @inject.autoparams()\n    def __init__(self, cars_adapter: CarsAdapter, rentals_adapter: RentalsAdapter, payments_adapter: PaymentsAdapter):\n        self._cars = cars_adapter\n        self._rentals = rentals_adapter\n        self._payments = payments_adapter\n    async def get_assembled_rentals(self, user_id: str) -> Iterable[Rental]:\n        rentals = await self._rentals.get_all_rentals_for_user(user_id)\n        return [\n            Rental(",
+        "detail": "src.gateway.core.services.rental_proxy_service",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "kind": 2,
+        "importPath": "src.gateway.entrypoint.app_factory",
+        "description": "src.gateway.entrypoint.app_factory",
+        "peekOfCode": "def create_app(config_cls: Type[Config] = Config) -> FastAPI:\n    config_obj = config_cls()\n    app = FastAPI()\n    bind(config_obj)\n    _build_http_api(app)\n    _register_server_error_handlers(app)\n    return app",
+        "detail": "src.gateway.entrypoint.app_factory",
+        "documentation": {}
+    },
+    {
+        "label": "bind",
+        "kind": 2,
+        "importPath": "src.gateway.entrypoint.bindings",
+        "description": "src.gateway.entrypoint.bindings",
+        "peekOfCode": "def bind(config: Config):\n    inject.configure_once(partial(_configure, config=config))\n    if not config.is_debug:\n        # Wait for injector\n        sleep(10)",
+        "detail": "src.gateway.entrypoint.bindings",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "kind": 6,
+        "importPath": "src.gateway.entrypoint.config",
+        "description": "src.gateway.entrypoint.config",
+        "peekOfCode": "class Config:\n    @property\n    def is_debug(self) -> bool:\n        return False\n    @property\n    def payments_host(self) -> str:\n        return os.getenv(\"PAYMENTS_HOST\", \"http://localhost:8001\")\n    @property\n    def rentals_host(self) -> str:\n        return os.getenv(\"RENTALS_HOST\", \"http://localhost:8002\")",
+        "detail": "src.gateway.entrypoint.config",
+        "documentation": {}
+    },
+    {
+        "label": "CarLoaderSchema",
+        "kind": 6,
+        "importPath": "src.gateway.infrastructure.gateways.loaders.car_schema",
+        "description": "src.gateway.infrastructure.gateways.loaders.car_schema",
+        "peekOfCode": "class CarLoaderSchema(LoaderSchema):\n    __model__ = Car\n    identifier = fields.UUID(data_key=\"carUid\")\n    brand = fields.String(data_key=\"brand\")\n    model = fields.String(data_key=\"model\")\n    registration_number = fields.String(data_key=\"registrationNumber\")\n    power = fields.Integer(data_key=\"power\")\n    type = EnumField(CarType, by_value=True, data_key=\"type\")\n    price = fields.Integer(data_key=\"price\")\n    available = fields.Boolean(data_key=\"available\")",
+        "detail": "src.gateway.infrastructure.gateways.loaders.car_schema",
+        "documentation": {}
+    },
+    {
+        "label": "CarResultLoaderSchema",
+        "kind": 6,
+        "importPath": "src.gateway.infrastructure.gateways.loaders.car_schema",
+        "description": "src.gateway.infrastructure.gateways.loaders.car_schema",
+        "peekOfCode": "class CarResultLoaderSchema(LoaderSchema):\n    __model__ = CarsResult\n    total_count = fields.Integer(data_key=\"totalElements\")\n    result = fields.List(fields.Nested(CarLoaderSchema), data_key=\"items\")\n    page_size = fields.Integer(data_key=\"pageSize\")\n    page = fields.Integer(data_key=\"page\")",
+        "detail": "src.gateway.infrastructure.gateways.loaders.car_schema",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentLoaderSchema",
+        "kind": 6,
+        "importPath": "src.gateway.infrastructure.gateways.loaders.payment_schema",
+        "description": "src.gateway.infrastructure.gateways.loaders.payment_schema",
+        "peekOfCode": "class PaymentLoaderSchema(LoaderSchema):\n    __model__ = Payment\n    identifier = fields.UUID(data_key=\"paymentUid\")\n    price = fields.Integer()\n    status = EnumField(PaymentStatus, by_name=True)",
+        "detail": "src.gateway.infrastructure.gateways.loaders.payment_schema",
+        "documentation": {}
+    },
+    {
+        "label": "RentalProjection",
+        "kind": 6,
+        "importPath": "src.gateway.infrastructure.gateways.loaders.rental_schema",
+        "description": "src.gateway.infrastructure.gateways.loaders.rental_schema",
+        "peekOfCode": "class RentalProjection(BaseModel):\n    identifier: UUID\n    status: RentalStatus\n    date_from: datetime.date\n    date_to: datetime.date\n    car_uid: UUID\n    payment_uid: UUID\nclass RentalProjectionSchema(LoaderSchema):\n    __model__ = RentalProjection\n    identifier = fields.UUID(data_key=\"rentalUid\")",
+        "detail": "src.gateway.infrastructure.gateways.loaders.rental_schema",
+        "documentation": {}
+    },
+    {
+        "label": "RentalProjectionSchema",
+        "kind": 6,
+        "importPath": "src.gateway.infrastructure.gateways.loaders.rental_schema",
+        "description": "src.gateway.infrastructure.gateways.loaders.rental_schema",
+        "peekOfCode": "class RentalProjectionSchema(LoaderSchema):\n    __model__ = RentalProjection\n    identifier = fields.UUID(data_key=\"rentalUid\")\n    user_id = fields.String(data_key=\"userId\")\n    status = EnumField(RentalStatus, by_value=True)\n    date_from = fields.Date(data_key=\"dateFrom\")\n    date_to = fields.Date(data_key=\"dateTo\")\n    car_uid = fields.UUID(data_key=\"carUid\")\n    payment_uid = fields.UUID(data_key=\"paymentUid\")",
+        "detail": "src.gateway.infrastructure.gateways.loaders.rental_schema",
+        "documentation": {}
+    },
+    {
+        "label": "CarsAdapter",
+        "kind": 6,
+        "importPath": "src.gateway.infrastructure.gateways.cars_adapter",
+        "description": "src.gateway.infrastructure.gateways.cars_adapter",
+        "peekOfCode": "class CarsAdapter:\n    cars_schema = CarResultLoaderSchema()\n    car_single_schema = CarLoaderSchema()\n    def __init__(self, host: str):\n        self._host = host\n        self._cars_url = f\"{host}/api/cars\"\n    async def list_of_cars(self, page: int, size: int, show_all: bool) -> CarsResult:\n        async with aiohttp.ClientSession() as session:\n            async with session.get(\n                f\"{self._cars_url}\", params={\"page\": page, \"size\": size, \"showAll\": str(show_all)}",
+        "detail": "src.gateway.infrastructure.gateways.cars_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentsAdapter",
+        "kind": 6,
+        "importPath": "src.gateway.infrastructure.gateways.payments_adapter",
+        "description": "src.gateway.infrastructure.gateways.payments_adapter",
+        "peekOfCode": "class PaymentsAdapter:\n    payment_single_schema = PaymentLoaderSchema()\n    def __init__(self, host: str):\n        self._host = host\n        self._payments_api = f\"{host}/api/payments\"\n    async def get_payment_by_id(self, payment_id: UUID) -> Payment:\n        async with aiohttp.ClientSession() as session:\n            async with session.get(f\"{self._payments_api}/{payment_id}\") as resp:\n                resp.raise_for_status()\n                return self.payment_single_schema.load(await resp.json())",
+        "detail": "src.gateway.infrastructure.gateways.payments_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "RentalsAdapter",
+        "kind": 6,
+        "importPath": "src.gateway.infrastructure.gateways.rentals_adapter",
+        "description": "src.gateway.infrastructure.gateways.rentals_adapter",
+        "peekOfCode": "class RentalsAdapter:\n    rentals_schema = RentalProjectionSchema()\n    def __init__(self, host: str):\n        self._host = host\n        self._rentals_url = f\"{self._host}/api/rental\"\n    async def get_all_rentals_for_user(self, user_id: str) -> Iterable[RentalProjection]:\n        async with aiohttp.ClientSession() as session:\n            async with session.get(f\"{self._rentals_url}\", headers={\"X-User-Name\": user_id}) as resp:\n                resp.raise_for_status()\n                rentals = await resp.json()",
+        "detail": "src.gateway.infrastructure.gateways.rentals_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "src.gateway.asgi",
+        "description": "src.gateway.asgi",
+        "peekOfCode": "app = create_app()",
+        "detail": "src.gateway.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemyDatabaseConnector",
+        "kind": 6,
+        "importPath": "src.shared_kernel.database.connectors.base_connector",
+        "description": "src.shared_kernel.database.connectors.base_connector",
+        "peekOfCode": "class SQLAlchemyDatabaseConnector(metaclass=ABCMeta):\n    def __init__(self, schema: Optional[str] = None):\n        self.schema = schema\n    def prepare_db(\n        self, mapping_callbacks: Sequence[Callable[[\"SQLAlchemyDatabaseConnector\"], None]], create_tables=False\n    ):\n        for callback in mapping_callbacks:\n            callback(self)\n        # if create_tables:\n        #     self.metadata.create_all()",
+        "detail": "src.shared_kernel.database.connectors.base_connector",
+        "documentation": {}
+    },
+    {
+        "label": "get_postgresql_connector",
+        "kind": 2,
+        "importPath": "src.shared_kernel.database.connectors.factories",
+        "description": "src.shared_kernel.database.connectors.factories",
+        "peekOfCode": "def get_postgresql_connector(\n    database_url: str,\n    database_connect_pool_recycle: int,\n    database_connect_pool_size: int,\n    mapping_callbacks: Sequence[Callable[[SQLAlchemyDatabaseConnector], None]],\n    schema: Optional[str] = None,\n    create_tables: bool = False,\n) -> PostgreSQLConnector:\n    database_connector = PostgreSQLConnector(\n        database_url=database_url,",
+        "detail": "src.shared_kernel.database.connectors.factories",
+        "documentation": {}
+    },
+    {
+        "label": "PostgreSQLConnector",
+        "kind": 6,
+        "importPath": "src.shared_kernel.database.connectors.postgresql",
+        "description": "src.shared_kernel.database.connectors.postgresql",
+        "peekOfCode": "class PostgreSQLConnector(SQLAlchemyDatabaseConnector):\n    def __init__(\n        self,\n        database_url: str,\n        database_connect_pool_size: int,\n        database_connect_pool_recycle: int,\n        schema: Optional[str] = None,\n    ):\n        self._engine = create_async_engine(\n            database_url,",
+        "detail": "src.shared_kernel.database.connectors.postgresql",
+        "documentation": {}
+    },
+    {
+        "label": "DatabaseTransactionManager",
+        "kind": 6,
+        "importPath": "src.shared_kernel.database.transaction.manager",
+        "description": "src.shared_kernel.database.transaction.manager",
+        "peekOfCode": "class DatabaseTransactionManager:\n    @inject.autoparams()\n    def __init__(self, db: SQLAlchemyDatabaseConnector):\n        self._db = db\n    def get_transaction(self):\n        current_session = SessionHolder.session.get()\n        if current_session:\n            transaction = Transaction(is_new=False)\n        else:\n            transaction = Transaction(is_new=True)",
+        "detail": "src.shared_kernel.database.transaction.manager",
+        "documentation": {}
+    },
+    {
+        "label": "NoCurrentSession",
+        "kind": 6,
+        "importPath": "src.shared_kernel.database.transaction.session_holder",
+        "description": "src.shared_kernel.database.transaction.session_holder",
+        "peekOfCode": "class NoCurrentSession(Exception):\n    pass\nclass SessionHolder:\n    session: ContextVar[Optional[AsyncSession]] = ContextVar(\"session\", default=None)\n    @staticmethod\n    def get_session() -> AsyncSession:\n        current_session = SessionHolder.session.get()\n        if not current_session:\n            func = inspect.stack()[4]\n            raise NoCurrentSession(str(func))",
+        "detail": "src.shared_kernel.database.transaction.session_holder",
+        "documentation": {}
+    },
+    {
+        "label": "SessionHolder",
+        "kind": 6,
+        "importPath": "src.shared_kernel.database.transaction.session_holder",
+        "description": "src.shared_kernel.database.transaction.session_holder",
+        "peekOfCode": "class SessionHolder:\n    session: ContextVar[Optional[AsyncSession]] = ContextVar(\"session\", default=None)\n    @staticmethod\n    def get_session() -> AsyncSession:\n        current_session = SessionHolder.session.get()\n        if not current_session:\n            func = inspect.stack()[4]\n            raise NoCurrentSession(str(func))\n        else:\n            return current_session",
+        "detail": "src.shared_kernel.database.transaction.session_holder",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "src.shared_kernel.database.transaction.session_holder",
+        "description": "src.shared_kernel.database.transaction.session_holder",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nclass NoCurrentSession(Exception):\n    pass\nclass SessionHolder:\n    session: ContextVar[Optional[AsyncSession]] = ContextVar(\"session\", default=None)\n    @staticmethod\n    def get_session() -> AsyncSession:\n        current_session = SessionHolder.session.get()\n        if not current_session:\n            func = inspect.stack()[4]",
+        "detail": "src.shared_kernel.database.transaction.session_holder",
+        "documentation": {}
+    },
+    {
+        "label": "Transaction",
+        "kind": 6,
+        "importPath": "src.shared_kernel.database.transaction.transaction",
+        "description": "src.shared_kernel.database.transaction.transaction",
+        "peekOfCode": "class Transaction:\n    id: int\n    is_new: bool\n    is_failed = ContextVar(\"is_failed\", default=False)\n    def __init__(self, is_new: bool):\n        self.id = uuid.uuid4().int\n        self.is_new = is_new\n        func = inspect.stack()[4]\n        logger.info(\n            f\"TX {self.id} started. Is new: {self.is_new}. \"",
+        "detail": "src.shared_kernel.database.transaction.transaction",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "src.shared_kernel.database.transaction.transaction",
+        "description": "src.shared_kernel.database.transaction.transaction",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nclass Transaction:\n    id: int\n    is_new: bool\n    is_failed = ContextVar(\"is_failed\", default=False)\n    def __init__(self, is_new: bool):\n        self.id = uuid.uuid4().int\n        self.is_new = is_new\n        func = inspect.stack()[4]\n        logger.info(",
+        "detail": "src.shared_kernel.database.transaction.transaction",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemyMixin",
+        "kind": 6,
+        "importPath": "src.shared_kernel.database.sqlalchemy_mixin",
+        "description": "src.shared_kernel.database.sqlalchemy_mixin",
+        "peekOfCode": "class SQLAlchemyMixin:\n    @inject.autoparams()  # TODO: подумать над расположением этого класса\n    def __init__(self, db_connector: SQLAlchemyDatabaseConnector):\n        self._db_connector = db_connector\n    @property\n    def metadata(self) -> MetaData:\n        return self._db_connector.metadata\n    @property\n    def session(self) -> AsyncSession:\n        return self._db_connector.get_current_session()",
+        "detail": "src.shared_kernel.database.sqlalchemy_mixin",
+        "documentation": {}
+    },
+    {
+        "label": "get_api_router",
+        "kind": 2,
+        "importPath": "src.stock.application.controllers.api_router",
+        "description": "src.stock.application.controllers.api_router",
+        "peekOfCode": "def get_api_router(**kwargs) -> InferringRouter:\n    return InferringRouter(**kwargs)",
+        "detail": "src.stock.application.controllers.api_router",
+        "documentation": {}
+    },
+    {
+        "label": "CarListResource",
+        "kind": 6,
+        "importPath": "src.stock.application.controllers.car_list",
+        "description": "src.stock.application.controllers.car_list",
+        "peekOfCode": "class CarListResource:\n    car_list_response_schema = CarListResponsePresentationSchema()\n    car_response_schema = CarResponsePresentationSchema()\n    @router.get(\n        \"/api/cars\",\n        response_model=CarListResponse,\n        response_model_exclude_none=True,\n        response_model_by_alias=True,\n    )\n    async def get_list_of_cars(",
+        "detail": "src.stock.application.controllers.car_list",
+        "documentation": {}
+    },
+    {
+        "label": "BaseConfig.arbitrary_types_allowed",
+        "kind": 5,
+        "importPath": "src.stock.application.controllers.car_list",
+        "description": "src.stock.application.controllers.car_list",
+        "peekOfCode": "BaseConfig.arbitrary_types_allowed = True\nrouter = get_api_router()\n@cbv(router)\nclass CarListResource:\n    car_list_response_schema = CarListResponsePresentationSchema()\n    car_response_schema = CarResponsePresentationSchema()\n    @router.get(\n        \"/api/cars\",\n        response_model=CarListResponse,\n        response_model_exclude_none=True,",
+        "detail": "src.stock.application.controllers.car_list",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "src.stock.application.controllers.car_list",
+        "description": "src.stock.application.controllers.car_list",
+        "peekOfCode": "router = get_api_router()\n@cbv(router)\nclass CarListResource:\n    car_list_response_schema = CarListResponsePresentationSchema()\n    car_response_schema = CarResponsePresentationSchema()\n    @router.get(\n        \"/api/cars\",\n        response_model=CarListResponse,\n        response_model_exclude_none=True,\n        response_model_by_alias=True,",
+        "detail": "src.stock.application.controllers.car_list",
+        "documentation": {}
+    },
+    {
+        "label": "CarSingleResource",
+        "kind": 6,
+        "importPath": "src.stock.application.controllers.car_single",
+        "description": "src.stock.application.controllers.car_single",
+        "peekOfCode": "class CarSingleResource:\n    car_schema = CarResponsePresentationSchema()\n    @router.patch(\n        \"/api/cars/{carUid}/reserve\",\n        responses={\"204\": {\"status_code\": HTTP_204_NO_CONTENT}, \"404\": {\"model\": NotFoundError}},\n    )\n    async def reserve_car(self, car_uid: UUID4 = Path(..., alias=\"carUid\")):  # type: ignore\n        service = inject.instance(CarListService)\n        reserved_car = await service.reserve_car(car_uid)\n        if reserved_car:",
+        "detail": "src.stock.application.controllers.car_single",
+        "documentation": {}
+    },
+    {
+        "label": "BaseConfig.arbitrary_types_allowed",
+        "kind": 5,
+        "importPath": "src.stock.application.controllers.car_single",
+        "description": "src.stock.application.controllers.car_single",
+        "peekOfCode": "BaseConfig.arbitrary_types_allowed = True\nrouter = get_api_router()\n@cbv(router)\nclass CarSingleResource:\n    car_schema = CarResponsePresentationSchema()\n    @router.patch(\n        \"/api/cars/{carUid}/reserve\",\n        responses={\"204\": {\"status_code\": HTTP_204_NO_CONTENT}, \"404\": {\"model\": NotFoundError}},\n    )\n    async def reserve_car(self, car_uid: UUID4 = Path(..., alias=\"carUid\")):  # type: ignore",
+        "detail": "src.stock.application.controllers.car_single",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "src.stock.application.controllers.car_single",
+        "description": "src.stock.application.controllers.car_single",
+        "peekOfCode": "router = get_api_router()\n@cbv(router)\nclass CarSingleResource:\n    car_schema = CarResponsePresentationSchema()\n    @router.patch(\n        \"/api/cars/{carUid}/reserve\",\n        responses={\"204\": {\"status_code\": HTTP_204_NO_CONTENT}, \"404\": {\"model\": NotFoundError}},\n    )\n    async def reserve_car(self, car_uid: UUID4 = Path(..., alias=\"carUid\")):  # type: ignore\n        service = inject.instance(CarListService)",
+        "detail": "src.stock.application.controllers.car_single",
+        "documentation": {}
+    },
+    {
+        "label": "CarResponse",
+        "kind": 6,
+        "importPath": "src.stock.application.presentation.car_list_response",
+        "description": "src.stock.application.presentation.car_list_response",
+        "peekOfCode": "class CarResponse(CreateCarRequest):\n    car_uid: UUID4 = Field(alias=\"carUid\")\n    available: bool = Field(alias=\"available\")\nclass CarListResponse(BaseModel):\n    page: int = Field(alias=\"page\")\n    page_size: int = Field(alias=\"pageSize\")\n    total_elements: int = Field(alias=\"totalElements\")\n    items: list[CarResponse] = Field(alias=\"items\")\nclass CarResponsePresentationSchema(PresentationSchema):\n    __model__ = CarResponse.construct",
+        "detail": "src.stock.application.presentation.car_list_response",
+        "documentation": {}
+    },
+    {
+        "label": "CarListResponse",
+        "kind": 6,
+        "importPath": "src.stock.application.presentation.car_list_response",
+        "description": "src.stock.application.presentation.car_list_response",
+        "peekOfCode": "class CarListResponse(BaseModel):\n    page: int = Field(alias=\"page\")\n    page_size: int = Field(alias=\"pageSize\")\n    total_elements: int = Field(alias=\"totalElements\")\n    items: list[CarResponse] = Field(alias=\"items\")\nclass CarResponsePresentationSchema(PresentationSchema):\n    __model__ = CarResponse.construct\n    car_uid = fields.UUID(attribute=\"identifier\")\n    brand = fields.String()\n    model = fields.String()",
+        "detail": "src.stock.application.presentation.car_list_response",
+        "documentation": {}
+    },
+    {
+        "label": "CarResponsePresentationSchema",
+        "kind": 6,
+        "importPath": "src.stock.application.presentation.car_list_response",
+        "description": "src.stock.application.presentation.car_list_response",
+        "peekOfCode": "class CarResponsePresentationSchema(PresentationSchema):\n    __model__ = CarResponse.construct\n    car_uid = fields.UUID(attribute=\"identifier\")\n    brand = fields.String()\n    model = fields.String()\n    registration_number = fields.String()\n    power = fields.String()\n    type = EnumField(CarType, by_value=True)\n    price = fields.Integer()\n    available = fields.Boolean()",
+        "detail": "src.stock.application.presentation.car_list_response",
+        "documentation": {}
+    },
+    {
+        "label": "CarListResponsePresentationSchema",
+        "kind": 6,
+        "importPath": "src.stock.application.presentation.car_list_response",
+        "description": "src.stock.application.presentation.car_list_response",
+        "peekOfCode": "class CarListResponsePresentationSchema(PresentationSchema):\n    __model__ = CarListResponse.construct\n    page = fields.Integer()\n    page_size = fields.Integer()\n    total_elements = fields.Integer(attribute=\"result.total_count\")\n    items = fields.List(fields.Nested(CarResponsePresentationSchema), attribute=\"result.cars\")",
+        "detail": "src.stock.application.presentation.car_list_response",
+        "documentation": {}
+    },
+    {
+        "label": "NotFoundError",
+        "kind": 6,
+        "importPath": "src.stock.application.presentation.errors",
+        "description": "src.stock.application.presentation.errors",
+        "peekOfCode": "class NotFoundError(BaseModel):\n    message: str",
+        "detail": "src.stock.application.presentation.errors",
+        "documentation": {}
+    },
+    {
+        "label": "CreateCarRequest",
+        "kind": 6,
+        "importPath": "src.stock.application.request_mapper.create_car_request",
+        "description": "src.stock.application.request_mapper.create_car_request",
+        "peekOfCode": "class CreateCarRequest(BaseModel):\n    brand: str = Field(alias=\"brand\")\n    model: str = Field(alias=\"model\")\n    registration_number: str = Field(alias=\"registrationNumber\")\n    power: Optional[int] = Field(alias=\"power\")\n    type: CarType = Field(alias=\"type\")\n    price: int = Field(alias=\"price\")",
+        "detail": "src.stock.application.request_mapper.create_car_request",
+        "documentation": {}
+    },
+    {
+        "label": "get_error_handlers",
+        "kind": 2,
+        "importPath": "src.stock.application.error_handlers",
+        "description": "src.stock.application.error_handlers",
+        "peekOfCode": "def get_error_handlers() -> list[Callable[[Request, Exception], Coroutine[Any, Any, JSONResponse]]]:\n    return [_internal_server_error_handler]",
+        "detail": "src.stock.application.error_handlers",
+        "documentation": {}
+    },
+    {
+        "label": "get_routers",
+        "kind": 2,
+        "importPath": "src.stock.application.list_of_routers",
+        "description": "src.stock.application.list_of_routers",
+        "peekOfCode": "def get_routers() -> list[InferringRouter]:\n    return [\n        car_list_router,\n        car_single_router,\n    ]",
+        "detail": "src.stock.application.list_of_routers",
+        "documentation": {}
+    },
+    {
+        "label": "CarType",
+        "kind": 6,
+        "importPath": "src.stock.core.domain.car",
+        "description": "src.stock.core.domain.car",
+        "peekOfCode": "class CarType(str, Enum):\n    SEDAN = \"SEDAN\"\n    SUV = \"SUV\"\n    MINIVAN = \"MINIVAN\"\n    ROADSTER = \"ROADSTER\"\n@dataclass\nclass Car:\n    identifier: UUID\n    brand: str\n    model: str",
+        "detail": "src.stock.core.domain.car",
+        "documentation": {}
+    },
+    {
+        "label": "Car",
+        "kind": 6,
+        "importPath": "src.stock.core.domain.car",
+        "description": "src.stock.core.domain.car",
+        "peekOfCode": "class Car:\n    identifier: UUID\n    brand: str\n    model: str\n    registration_number: str\n    power: Optional[int]\n    type: CarType\n    price: int\n    available: bool = True\n    def reserve(self) -> \"Car\":",
+        "detail": "src.stock.core.domain.car",
+        "documentation": {}
+    },
+    {
+        "label": "Error",
+        "kind": 6,
+        "importPath": "src.stock.core.domain.car_repository",
+        "description": "src.stock.core.domain.car_repository",
+        "peekOfCode": "class Error:\n    reason: str\n    timestamp: datetime.datetime = datetime.datetime.now()\nclass CarRepository(metaclass=ABCMeta):\n    @abstractmethod\n    async def filter_cars_by_availability(self, skip: int, limit: int, availability: bool) -> Tuple[Iterable[Car], int]:\n        pass\n    @abstractmethod\n    async def list(self, skip: int, limit: int) -> Tuple[Iterable[Car], int]:\n        pass",
+        "detail": "src.stock.core.domain.car_repository",
+        "documentation": {}
+    },
+    {
+        "label": "CarRepository",
+        "kind": 6,
+        "importPath": "src.stock.core.domain.car_repository",
+        "description": "src.stock.core.domain.car_repository",
+        "peekOfCode": "class CarRepository(metaclass=ABCMeta):\n    @abstractmethod\n    async def filter_cars_by_availability(self, skip: int, limit: int, availability: bool) -> Tuple[Iterable[Car], int]:\n        pass\n    @abstractmethod\n    async def list(self, skip: int, limit: int) -> Tuple[Iterable[Car], int]:\n        pass\n    @abstractmethod\n    async def save(self, car: Car):\n        pass",
+        "detail": "src.stock.core.domain.car_repository",
+        "documentation": {}
+    },
+    {
+        "label": "CarsResult",
+        "kind": 6,
+        "importPath": "src.stock.core.domain.cars_result",
+        "description": "src.stock.core.domain.cars_result",
+        "peekOfCode": "class CarsResult:\n    total_count: int\n    cars: list[Car]",
+        "detail": "src.stock.core.domain.cars_result",
+        "documentation": {}
+    },
+    {
+        "label": "CarListService",
+        "kind": 6,
+        "importPath": "src.stock.core.services.car_list_service",
+        "description": "src.stock.core.services.car_list_service",
+        "peekOfCode": "class CarListService:\n    @inject.autoparams()\n    def __init__(self, car_repository: CarRepository):\n        self._cars = car_repository\n    @async_transactional\n    async def get_car_by_id(self, car_id: uuid.UUID) -> Optional[Car]:\n        return await self._cars.get_car_by_id(car_id, available=\"all\")\n    @async_transactional\n    async def show_cars(self, page: int, size: int, show_all: bool) -> CarsResult:\n        skip = (page - 1) * size",
+        "detail": "src.stock.core.services.car_list_service",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "kind": 2,
+        "importPath": "src.stock.entrypoint.app_factory",
+        "description": "src.stock.entrypoint.app_factory",
+        "peekOfCode": "def create_app(config_cls: Type[Config] = Config) -> FastAPI:\n    config_obj = config_cls()\n    app = FastAPI()\n    bind(config_obj)\n    _build_http_api(app)\n    _register_server_error_handlers(app)\n    return app",
+        "detail": "src.stock.entrypoint.app_factory",
+        "documentation": {}
+    },
+    {
+        "label": "bind",
+        "kind": 2,
+        "importPath": "src.stock.entrypoint.bindings",
+        "description": "src.stock.entrypoint.bindings",
+        "peekOfCode": "def bind(config: Config):\n    inject.configure_once(partial(_configure, config=config))\n    if not config.is_debug:\n        # Wait for injector\n        sleep(10)",
+        "detail": "src.stock.entrypoint.bindings",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "kind": 6,
+        "importPath": "src.stock.entrypoint.config",
+        "description": "src.stock.entrypoint.config",
+        "peekOfCode": "class Config:\n    @property\n    def create_tables(self) -> bool:\n        flag = os.getenv(\"CREATE_TABLES\", 0)\n        if flag == \"true\":\n            return True\n        return False\n    @property\n    def is_debug(self) -> bool:\n        return False",
+        "detail": "src.stock.entrypoint.config",
+        "documentation": {}
+    },
+    {
+        "label": "TestConfig",
+        "kind": 6,
+        "importPath": "src.stock.entrypoint.config",
+        "description": "src.stock.entrypoint.config",
+        "peekOfCode": "class TestConfig(Config):\n    @property\n    def create_tables(self) -> bool:\n        return True\n    @property\n    def database_name(self) -> str:\n        return \"test-services\"\n    @property\n    def database_user(self) -> str:\n        return os.getenv(\"POSTGRES_USER\", \"postgres\")",
+        "detail": "src.stock.entrypoint.config",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "src.stock.infrastructure.database.migrations.versions.2a6598cb9b56_create_cars_table",
+        "description": "src.stock.infrastructure.database.migrations.versions.2a6598cb9b56_create_cars_table",
+        "peekOfCode": "def upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    schema = op.get_context().version_table_schema\n    op.create_table(\n        \"cars\",\n        sa.Column(\"identifier\", postgresql.UUID(as_uuid=True), nullable=False),\n        sa.Column(\"brand\", sa.String(), nullable=False),\n        sa.Column(\"model\", sa.String(), nullable=False),\n        sa.Column(\"registration_number\", sa.String(), nullable=False),\n        sa.Column(\"power\", sa.Integer(), nullable=True),",
+        "detail": "src.stock.infrastructure.database.migrations.versions.2a6598cb9b56_create_cars_table",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "src.stock.infrastructure.database.migrations.versions.2a6598cb9b56_create_cars_table",
+        "description": "src.stock.infrastructure.database.migrations.versions.2a6598cb9b56_create_cars_table",
+        "peekOfCode": "def downgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    schema = op.get_context().version_table_schema\n    op.drop_table(\"cars\", schema=schema)\n    # ### end Alembic commands ###",
+        "detail": "src.stock.infrastructure.database.migrations.versions.2a6598cb9b56_create_cars_table",
+        "documentation": {}
+    },
+    {
+        "label": "revision",
+        "kind": 5,
+        "importPath": "src.stock.infrastructure.database.migrations.versions.2a6598cb9b56_create_cars_table",
+        "description": "src.stock.infrastructure.database.migrations.versions.2a6598cb9b56_create_cars_table",
+        "peekOfCode": "revision = \"2a6598cb9b56\"\ndown_revision = None\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    schema = op.get_context().version_table_schema\n    op.create_table(\n        \"cars\",\n        sa.Column(\"identifier\", postgresql.UUID(as_uuid=True), nullable=False),",
+        "detail": "src.stock.infrastructure.database.migrations.versions.2a6598cb9b56_create_cars_table",
+        "documentation": {}
+    },
+    {
+        "label": "down_revision",
+        "kind": 5,
+        "importPath": "src.stock.infrastructure.database.migrations.versions.2a6598cb9b56_create_cars_table",
+        "description": "src.stock.infrastructure.database.migrations.versions.2a6598cb9b56_create_cars_table",
+        "peekOfCode": "down_revision = None\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    schema = op.get_context().version_table_schema\n    op.create_table(\n        \"cars\",\n        sa.Column(\"identifier\", postgresql.UUID(as_uuid=True), nullable=False),\n        sa.Column(\"brand\", sa.String(), nullable=False),",
+        "detail": "src.stock.infrastructure.database.migrations.versions.2a6598cb9b56_create_cars_table",
+        "documentation": {}
+    },
+    {
+        "label": "branch_labels",
+        "kind": 5,
+        "importPath": "src.stock.infrastructure.database.migrations.versions.2a6598cb9b56_create_cars_table",
+        "description": "src.stock.infrastructure.database.migrations.versions.2a6598cb9b56_create_cars_table",
+        "peekOfCode": "branch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    schema = op.get_context().version_table_schema\n    op.create_table(\n        \"cars\",\n        sa.Column(\"identifier\", postgresql.UUID(as_uuid=True), nullable=False),\n        sa.Column(\"brand\", sa.String(), nullable=False),\n        sa.Column(\"model\", sa.String(), nullable=False),",
+        "detail": "src.stock.infrastructure.database.migrations.versions.2a6598cb9b56_create_cars_table",
+        "documentation": {}
+    },
+    {
+        "label": "depends_on",
+        "kind": 5,
+        "importPath": "src.stock.infrastructure.database.migrations.versions.2a6598cb9b56_create_cars_table",
+        "description": "src.stock.infrastructure.database.migrations.versions.2a6598cb9b56_create_cars_table",
+        "peekOfCode": "depends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    schema = op.get_context().version_table_schema\n    op.create_table(\n        \"cars\",\n        sa.Column(\"identifier\", postgresql.UUID(as_uuid=True), nullable=False),\n        sa.Column(\"brand\", sa.String(), nullable=False),\n        sa.Column(\"model\", sa.String(), nullable=False),\n        sa.Column(\"registration_number\", sa.String(), nullable=False),",
+        "detail": "src.stock.infrastructure.database.migrations.versions.2a6598cb9b56_create_cars_table",
+        "documentation": {}
+    },
+    {
+        "label": "get_db_connector",
+        "kind": 2,
+        "importPath": "src.stock.infrastructure.database.migrations.env",
+        "description": "src.stock.infrastructure.database.migrations.env",
+        "peekOfCode": "def get_db_connector():\n    return get_postgresql_connector(\n        database_connect_pool_recycle=configuration.database_connect_pool_recycle,\n        database_connect_pool_size=configuration.database_connect_pool_size,\n        database_url=configuration.database_url,\n        mapping_callbacks=get_mapping_callbacks(),\n        schema=configuration.database_schema,\n    )\ndef get_metadata(connector):\n    return connector.metadata",
+        "detail": "src.stock.infrastructure.database.migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "get_metadata",
+        "kind": 2,
+        "importPath": "src.stock.infrastructure.database.migrations.env",
+        "description": "src.stock.infrastructure.database.migrations.env",
+        "peekOfCode": "def get_metadata(connector):\n    return connector.metadata\nconnector = get_db_connector()\ntarget_metadata = get_metadata(connector)\ndef do_run_migrations(connection):\n    context.configure(connection=connection, target_metadata=target_metadata)\n    with context.begin_transaction():\n        context.run_migrations()\ndef run_migrations_offline():\n    context.configure(",
+        "detail": "src.stock.infrastructure.database.migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "do_run_migrations",
+        "kind": 2,
+        "importPath": "src.stock.infrastructure.database.migrations.env",
+        "description": "src.stock.infrastructure.database.migrations.env",
+        "peekOfCode": "def do_run_migrations(connection):\n    context.configure(connection=connection, target_metadata=target_metadata)\n    with context.begin_transaction():\n        context.run_migrations()\ndef run_migrations_offline():\n    context.configure(\n        url=config.get_main_option(\"sqlalchemy.url\"),\n        target_metadata=target_metadata,\n        literal_binds=True,\n        dialect_opts={\"paramstyle\": \"named\"},",
+        "detail": "src.stock.infrastructure.database.migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_offline",
+        "kind": 2,
+        "importPath": "src.stock.infrastructure.database.migrations.env",
+        "description": "src.stock.infrastructure.database.migrations.env",
+        "peekOfCode": "def run_migrations_offline():\n    context.configure(\n        url=config.get_main_option(\"sqlalchemy.url\"),\n        target_metadata=target_metadata,\n        literal_binds=True,\n        dialect_opts={\"paramstyle\": \"named\"},\n        compare_type=True,\n    )\n    with context.begin_transaction():\n        context.run_migrations()",
+        "detail": "src.stock.infrastructure.database.migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "src.stock.infrastructure.database.migrations.env",
+        "description": "src.stock.infrastructure.database.migrations.env",
+        "peekOfCode": "config = context.config\n# Interpret the config file for Python logging.\n# This line sets up loggers basically.\nif config.config_file_name:\n    fileConfig(config.config_file_name)\nconfiguration = Config()\nconfig.set_main_option(\"sqlalchemy.url\", configuration.database_url)\nlogger.debug(f\"Current configuration - {configuration.to_dict()}\")\ndef get_db_connector():\n    return get_postgresql_connector(",
+        "detail": "src.stock.infrastructure.database.migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "configuration",
+        "kind": 5,
+        "importPath": "src.stock.infrastructure.database.migrations.env",
+        "description": "src.stock.infrastructure.database.migrations.env",
+        "peekOfCode": "configuration = Config()\nconfig.set_main_option(\"sqlalchemy.url\", configuration.database_url)\nlogger.debug(f\"Current configuration - {configuration.to_dict()}\")\ndef get_db_connector():\n    return get_postgresql_connector(\n        database_connect_pool_recycle=configuration.database_connect_pool_recycle,\n        database_connect_pool_size=configuration.database_connect_pool_size,\n        database_url=configuration.database_url,\n        mapping_callbacks=get_mapping_callbacks(),\n        schema=configuration.database_schema,",
+        "detail": "src.stock.infrastructure.database.migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "connector",
+        "kind": 5,
+        "importPath": "src.stock.infrastructure.database.migrations.env",
+        "description": "src.stock.infrastructure.database.migrations.env",
+        "peekOfCode": "connector = get_db_connector()\ntarget_metadata = get_metadata(connector)\ndef do_run_migrations(connection):\n    context.configure(connection=connection, target_metadata=target_metadata)\n    with context.begin_transaction():\n        context.run_migrations()\ndef run_migrations_offline():\n    context.configure(\n        url=config.get_main_option(\"sqlalchemy.url\"),\n        target_metadata=target_metadata,",
+        "detail": "src.stock.infrastructure.database.migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "target_metadata",
+        "kind": 5,
+        "importPath": "src.stock.infrastructure.database.migrations.env",
+        "description": "src.stock.infrastructure.database.migrations.env",
+        "peekOfCode": "target_metadata = get_metadata(connector)\ndef do_run_migrations(connection):\n    context.configure(connection=connection, target_metadata=target_metadata)\n    with context.begin_transaction():\n        context.run_migrations()\ndef run_migrations_offline():\n    context.configure(\n        url=config.get_main_option(\"sqlalchemy.url\"),\n        target_metadata=target_metadata,\n        literal_binds=True,",
+        "detail": "src.stock.infrastructure.database.migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "bind_cars_table_to_cars_model",
+        "kind": 2,
+        "importPath": "src.stock.infrastructure.database.repositories.cars.sql_car_mapping",
+        "description": "src.stock.infrastructure.database.repositories.cars.sql_car_mapping",
+        "peekOfCode": "def bind_cars_table_to_cars_model(database_connector: SQLAlchemyDatabaseConnector):\n    car_table = Table(\n        \"cars\",\n        database_connector.metadata,\n        Column(\"identifier\", UUID(as_uuid=True), primary_key=True),\n        Column(\"brand\", String, nullable=False),\n        Column(\"model\", String, nullable=False),\n        Column(\"registration_number\", String, nullable=False),\n        Column(\"power\", Integer, nullable=True),\n        Column(\"type\", Enum(CarType), nullable=False),",
+        "detail": "src.stock.infrastructure.database.repositories.cars.sql_car_mapping",
+        "documentation": {}
+    },
+    {
+        "label": "PostgreSQLCarRepository",
+        "kind": 6,
+        "importPath": "src.stock.infrastructure.database.repositories.cars.sql_car_repository",
+        "description": "src.stock.infrastructure.database.repositories.cars.sql_car_repository",
+        "peekOfCode": "class PostgreSQLCarRepository(CarRepository, SQLAlchemyMixin):\n    async def create_tables(self):\n        conn = await self.session.connection()\n        await conn.run_sync(self.metadata.create_all)  # type: ignore\n    async def list(self, skip: int, limit: int) -> Tuple[Iterable[Car], int]:\n        query = select(Car).limit(limit).offset(skip)  # type: ignore\n        cars = await self.session.execute(query)\n        count = await self.session.execute(select(func.count(Car.identifier)))\n        return list(cars.scalars()), count.scalar()\n    async def filter_cars_by_availability(self, skip: int, limit: int, availability: bool) -> Tuple[Iterable[Car], int]:",
+        "detail": "src.stock.infrastructure.database.repositories.cars.sql_car_repository",
+        "documentation": {}
+    },
+    {
+        "label": "get_mapping_callbacks",
+        "kind": 2,
+        "importPath": "src.stock.infrastructure.database.repositories.get_mapping_callbacks",
+        "description": "src.stock.infrastructure.database.repositories.get_mapping_callbacks",
+        "peekOfCode": "def get_mapping_callbacks() -> Sequence[Callable[[SQLAlchemyDatabaseConnector], None]]:\n    return [\n        bind_cars_table_to_cars_model,\n    ]",
+        "detail": "src.stock.infrastructure.database.repositories.get_mapping_callbacks",
+        "documentation": {}
+    },
+    {
+        "label": "test_car_reserve",
+        "kind": 2,
+        "importPath": "src.stock.tests.unit.core.domain.test_car",
+        "description": "src.stock.tests.unit.core.domain.test_car",
+        "peekOfCode": "def test_car_reserve(test_car: Car, expected_car: Car):\n    changed_car = test_car.reserve()\n    assert changed_car.available == expected_car.available\n@pytest.mark.parametrize(\n    \"test_car,expected_car\",\n    [\n        pytest.param(\n            Car(\n                identifier=uuid4(),\n                brand=\"1\",",
+        "detail": "src.stock.tests.unit.core.domain.test_car",
+        "documentation": {}
+    },
+    {
+        "label": "test_car_free",
+        "kind": 2,
+        "importPath": "src.stock.tests.unit.core.domain.test_car",
+        "description": "src.stock.tests.unit.core.domain.test_car",
+        "peekOfCode": "def test_car_free(test_car: Car, expected_car: Car):\n    changed_car = test_car.free()\n    assert changed_car.available == expected_car.available",
+        "detail": "src.stock.tests.unit.core.domain.test_car",
+        "documentation": {}
+    },
+    {
+        "label": "event_loop",
+        "kind": 2,
+        "importPath": "src.stock.tests.unit.conftest",
+        "description": "src.stock.tests.unit.conftest",
+        "peekOfCode": "def event_loop():\n    loop = asyncio.get_event_loop()\n    yield loop\n    loop.close()\n@pytest.fixture(scope=\"session\")\n@pytest.mark.asyncio\ndef configuration():\n    conf = TestConfig()\n    print(f\"Test configuration is {conf.to_dict()}\")\n    return conf",
+        "detail": "src.stock.tests.unit.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "configuration",
+        "kind": 2,
+        "importPath": "src.stock.tests.unit.conftest",
+        "description": "src.stock.tests.unit.conftest",
+        "peekOfCode": "def configuration():\n    conf = TestConfig()\n    print(f\"Test configuration is {conf.to_dict()}\")\n    return conf\n@pytest.fixture(scope=\"session\")\n@pytest.mark.asyncio\ndef database(configuration: TestConfig):\n    with DatabaseJanitor(\n        host=configuration.database_host,\n        port=configuration.database_port,",
+        "detail": "src.stock.tests.unit.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "database",
+        "kind": 2,
+        "importPath": "src.stock.tests.unit.conftest",
+        "description": "src.stock.tests.unit.conftest",
+        "peekOfCode": "def database(configuration: TestConfig):\n    with DatabaseJanitor(\n        host=configuration.database_host,\n        port=configuration.database_port,\n        user=configuration.database_user,\n        password=configuration.database_password,\n        dbname=configuration.database_name,\n        version=11,\n    ):\n        yield",
+        "detail": "src.stock.tests.unit.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "src.stock.asgi",
+        "description": "src.stock.asgi",
+        "peekOfCode": "app = create_app()",
+        "detail": "src.stock.asgi",
+        "documentation": {}
+    }
+]

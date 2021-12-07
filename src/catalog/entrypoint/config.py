@@ -1,11 +1,19 @@
 import os
-from typing import Any, Dict, Optional
+from typing import Any, Dict
 
 
 class Config:
     @property
     def is_debug(self) -> bool:
         return False
+
+    @property
+    def elasticsearch_host(self) -> str:
+        return os.getenv("ELASTICSEARCH_HOST", "es-vtb")
+
+    @property
+    def elasticsearch_port(self) -> int:
+        return int(os.getenv("ELASTICSEARCH_PORT", "9200"))
 
     def to_dict(self) -> Dict[str, Any]:
         return {
