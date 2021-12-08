@@ -1,8 +1,9 @@
+from marshmallow import fields
 from pydantic import BaseModel, HttpUrl
 from pydantic.fields import Field
 from pydantic.types import UUID4
 
-from catalog.application.presentation.hateoas import HateoasLinks
+from catalog.application.presentation import PresentationSchema
 
 
 class CardResponse(BaseModel):
@@ -17,4 +18,21 @@ class CardResponse(BaseModel):
 
 class CardsPaginatedResponse(BaseModel):
     items: list[CardResponse] = Field(alias="items")
-    links: HateoasLinks = Field(alias="_links")
+    total_elements: int = Field(alias="totalElements")
+
+
+class CardResponsePresentationSchema(PresentationSchema):
+    __model__ = CardResponse.construct
+    id = fields.UUID()
+    label = fields.String()
+    image = fields.String()
+    price = fields.Integer()
+    rating = fields.Float()
+    reviews_count = fields.Integer()
+    path = fields.String()
+
+
+class CardsPaginatedResponsePresentationSchema(PresentationSchema):
+    __model__ = CardsPaginatedResponse.construct
+    items = fields.List(fields.Nested(CardResponsePresentationSchema))
+    total_elements = fields.Integer()

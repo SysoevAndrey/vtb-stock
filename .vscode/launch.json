@@ -5,6 +5,36 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Initialize ES",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceRoot}/src/catalog/scripts/initialize_es.py",
+            "console": "integratedTerminal",
+            "env": {
+                "PYTHONPATH": "src"
+            }
+        },
+        {
+            "name": "Recreate index",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceRoot}/src/catalog/scripts/recreate_index.py",
+            "console": "integratedTerminal",
+            "env": {
+                "PYTHONPATH": "src"
+            }
+        },
+        {
+            "name": "Initialize Fake data",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceRoot}/src/catalog/scripts/initialize_fake_data.py",
+            "console": "integratedTerminal",
+            "env": {
+                "PYTHONPATH": "src"
+            }
+        },
+        {
             "name": "Python: FastAPI",
             "type": "python",
             "request": "launch",

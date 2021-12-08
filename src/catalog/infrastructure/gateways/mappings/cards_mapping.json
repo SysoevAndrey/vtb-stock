@@ -26,7 +26,7 @@
         },
         {
             "sort_keys_as_number": {
-                "path_match": "number_sort.*",
+                "path_match": "sort_numbers_data.*",
                 "mapping": {
                     "type": "double"
                 }
@@ -38,10 +38,13 @@
         "type": {
             "type": "keyword"
         },
-        "category": {
+        "categories_navigation": {
             "type": "object",
             "properties": {
-                "paths": {
+                "path": {
+                    "type": "keyword"
+                },
+                "direct_parent": {
                     "type": "keyword"
                 }
             }
@@ -49,10 +52,39 @@
         "keyword_parameters": {
             "type": "nested",
             "properties": {
+                "id": {
+                    "type": "keyword"
+                },
+                "label": {
+                    "type": "keyword"
+                },
                 "facet_info": {
                     "type": "keyword"
                 },
                 "facet_value": {
+                    "type": "keyword"
+                },
+                "values": {
+                    "type": "keyword"
+                }
+            }
+        },
+        "categories": {
+            "type": "nested",
+            "properties": {
+                "id": {
+                    "type": "keyword"
+                },
+                "label": {
+                    "type": "keyword"
+                },
+                "facet_info": {
+                    "type": "keyword"
+                },
+                "parent": {
+                    "type": "keyword"
+                },
+                "image": {
                     "type": "keyword"
                 }
             }
@@ -60,10 +92,33 @@
         "number_parameters": {
             "type": "nested",
             "properties": {
+                "id": {
+                    "type": "keyword"
+                },
+                "label": {
+                    "type": "keyword"
+                },
                 "facet_info": {
                     "type": "keyword"
                 },
-                "facet_value": {
+                "value": {
+                    "type": "double"
+                }
+            }
+        },
+        "number_sort_parameters": {
+            "type": "nested",
+            "properties": {
+                "id": {
+                    "type": "keyword"
+                },
+                "label": {
+                    "type": "keyword"
+                },
+                "facet_info": {
+                    "type": "keyword"
+                },
+                "value": {
                     "type": "double"
                 }
             }

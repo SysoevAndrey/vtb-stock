@@ -1,13 +1,24 @@
 from typing import Optional
-from fastapi.params import Query
+
 import inject
-from catalog.application.controllers.api_router import get_api_router
+from fastapi.params import Query
 from fastapi_utils.cbv import cbv
-from catalog.application.presentation.card_list_response import CardsPaginatedResponse, CardResponse
+from loguru import logger
+
+from catalog.application.controllers.api_router import get_api_router
+from catalog.application.presentation.card_list_response import (
+    CardResponse,
+    CardsPaginatedResponse,
+    CardsPaginatedResponsePresentationSchema,
+)
 from catalog.application.presentation.hateoas import HateoasLinks, Link
+from catalog.application.presentation.save_cards_response import (
+    SaveCardsResponseModel,
+    SaveCardsResponseModelPresentationSchema,
+)
+from catalog.application.request_mapper.card_document_create_request import CardDocumentCreateRequest
 from catalog.application.request_mapper.filters_request import FiltersRequestSchema
 from catalog.core.services.card_list_service import CardListService
-from loguru import logger
 
 router = get_api_router()
 
@@ -37,6 +48,8 @@ mock_data = CardsPaginatedResponse.construct(
 @cbv(router)
 class CardListResource:
     filters_request_schema = FiltersRequestSchema()
+    card_documents_response_schema = SaveCardsResponseModelPresentationSchema()
+    cards_paginated_response_schema = CardsPaginatedResponsePresentationSchema()
 
     @router.get(
         "/api/products/cards",
@@ -65,4 +78,17 @@ class CardListResource:
             {"categories": categories, "sort": sort, "search": search, "filters": filters}
         )
         logger.info(filters_request)
-        return mock_data
+        cards, total_elements = await service.match_cards(filters_request)
+        return self.cards_paginated_response_schema.dump({"total_elements": total_elements, "items": cards})
+
+    @router.post(
+        "/api/products/cards",
+        responses={"200": {"description": "One or more cards successfully created", "model": SaveCardsResponseModel}},
+    )
+    async def save_card_documents(
+        self, card_documents_create_request: list[CardDocumentCreateRequest]
+    ) -> SaveCardsResponseModel:
+        service = inject.instance(CardListService)
+        success, failed = await service.save_card_documents(card_documents_create_request)
+
+        return self.card_documents_response_schema.dump({"success_count": success, "failed_count": failed})

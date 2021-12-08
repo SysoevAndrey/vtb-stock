@@ -1,36 +1,41 @@
-import json
-from dataclasses import asdict, dataclass
-from typing import Optional
+from abc import ABCMeta
+from dataclasses import dataclass
+from typing import Optional, Type
 
 from catalog.core.domain.card import Card
 
 
+class NumberSortDescriptor:
+    mapping = {
+        "price": ("cheaper", "Сначала дешевле"),
+        "rating": ("greater_rating", "Сначала с более высоким рейтингом"),
+        "reviews_count": ("more_reviews", "Сначала с большим количеством отзывов"),
+    }
+
+    def __get__(self, instance: "CardDocument", owner: Type["CardDocument"]) -> list["NumberParameter"]:
+        params = []
+        for field, description in self.mapping.items():
+            identifier, label = description
+            value = getattr(instance.item, field)
+            params.append(NumberParameter(id=identifier, label=label, value=value))
+
+        return params
+
+
 @dataclass(frozen=True)
-class NumberParameter:
+class FacetedParameter(metaclass=ABCMeta):
     id: str
+    label: str
+
+
+@dataclass(frozen=True)
+class NumberParameter(FacetedParameter):
     value: float
 
-    @property
-    def facet_info(self) -> str:
-        return json.dumps({"id": self.id, "label": self.id})
-
-    @property
-    def facet_value(self) -> str:
-        return json.dumps({"id": self.value, "label": self.value})
-
 
 @dataclass(frozen=True)
-class KeywordParameter:
-    id: str
+class KeywordParameter(FacetedParameter):
     values: list[str]
-
-    @property
-    def facet_info(self) -> str:
-        return json.dumps({"id": self.id, "label": self.id})
-
-    @property
-    def facet_value(self) -> str:
-        return json.dumps([{"id": value, "label": value} for value in self.values])
 
 
 @dataclass(frozen=True)
@@ -49,18 +54,8 @@ class CardDocument:
     keyword_parameters: list[KeywordParameter]
     categories: list[CardCategory]
 
-    @property
-    def categories_info(self) -> list[str]:
-        return []  # FIXME
+    _number_sort_parameters = NumberSortDescriptor()
 
     @property
-    def search_result(self) -> dict[str, str]:
-        return {key: str(value) for key, value in asdict(self.item).items()}
-
-    @property
-    def number_search_data(self) -> dict[str, float]:
-        return {parameter.id: parameter.value for parameter in self.number_parameters}
-
-    @property
-    def keyword_search_data(self) -> dict[str, list[str]]:
-        return {parameter.id: parameter.values for parameter in self.keyword_parameters}
+    def number_sort_parameters(self) -> list[NumberParameter]:
+        return self._number_sort_parameters
