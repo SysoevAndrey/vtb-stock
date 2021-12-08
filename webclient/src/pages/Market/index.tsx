@@ -1,16 +1,15 @@
-import React, { useEffect } from 'react';
-import axios from 'axios';
+import React from 'react';
+
+import Advertisement from '../../components/Advertisement';
+import './Market.scss';
 
 const Market = () => {
-  useEffect(() => {
-    (async () => {
-      const { data } = await axios.get('/api/products/filters');
+  return (
+    <div className="market">
+      <Advertisement />
 
-      console.log(data);
-    })();
-  }, []);
-
-  return <h1>Hello</h1>;
+    </div>
+  );
 };
 
 export default Market;
