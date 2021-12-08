@@ -9,7 +9,7 @@ type TActions = { type: 'SIGN_IN' } | { type: 'SIGN_OUT' };
 type Reducer = (state: IState, action: TActions) => IState;
 
 const initialState: IState = {
-  logged: false,
+  logged: true,
 };
 
 const reducer: Reducer = (state: IState, action: TActions) => {

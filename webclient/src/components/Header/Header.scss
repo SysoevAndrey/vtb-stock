@@ -16,7 +16,9 @@
 
   &__list {
     display: flex;
-    gap: 10px;
+    gap: 20px;
+
+    align-items: center;
 
     list-style: none;
   }
@@ -24,5 +26,15 @@
   &__logo {
     font-size: 32px;
     font-weight: 700;
+  }
+
+  &__profile {
+    height: 30px;
+    width: 30px;
+
+    background-color: green;
+
+    border: 2px solid #051d4d;
+    border-radius: 50%;
   }
 }
