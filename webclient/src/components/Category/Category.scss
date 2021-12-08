@@ -1,0 +1,50 @@
+@import '../../common/styles';
+
+$size: 150px;
+
+.category {
+  position: relative;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+
+  box-sizing: border-box;
+
+  padding: 10px;
+
+  height: $size;
+  width: $size;
+
+  border-radius: 10px;
+
+  color: #fff;
+
+  &:before {
+    position: absolute;
+
+    content: '';
+
+    width: $size;
+    height: $size;
+
+    left: 0;
+    bottom: 0;
+
+    background: linear-gradient(#ffffff80, $blue-color);
+
+    box-sizing: border-box;
+
+    border: 2px solid $blue-color;
+    border-radius: 10px;
+
+    z-index: 1;
+  }
+
+  &__name {
+    font-family: 'Roboto Slab', serif;
+
+    margin: 0;
+    z-index: 2;
+  }
+}

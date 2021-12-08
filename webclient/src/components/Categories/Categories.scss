@@ -1,0 +1,9 @@
+.categories {
+  width: 100%;
+
+
+  &__list {
+    display: flex;
+    justify-content: space-between;
+  }
+}
